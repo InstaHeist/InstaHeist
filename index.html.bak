@@ -1,0 +1,1449 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="darkmode.css">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>SMM Panel - World's Best SMM Panel Services Provider</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="Get the best SMM Panel for fast, reliable, and affordable marketing services. Perfect for resellers and agencies looking to grow online visibility with ease.">
+      	<meta name="google-site-verification" content="0Efi9cNqCWr4n9l-2Pu5bkajIb8TvBAsS6KU9hVaX1A" />
+
+					<link rel="shortcut icon" type="image/ico" href="https://storage.perfectcdn.com/a9optm/6lrdlgj7bp5ru0yg.ico"/>
+				<link rel="canonical" href="https://InstaHeist.com/" /><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PHDSBVMMF8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PHDSBVMMF8');
+</script>
+
+
+<meta name="heleket" content="05b52c3b" />
+
+<script src="https://browser.sentry-cdn.com/9.12.0/bundle.min.js" crossorigin="anonymous"></script>
+
+<script>Sentry.init({ dsn: 'https://294a44a1147a468c88270ee2dd6ecde9@sentry.io/4504813329711104' });</script>
+
+
+
+									<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/ty7d7m6ibnt12o58.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/kyrwbf3efnq1yr0f.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/libs/bootstrap-datetimepicker/4.17.47/bootstrap-datetimepicker.min.css">
+																	<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/i76bg9kfcu5px52e.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/0cppkyps8we2szqc.css">
+					
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
+		
+        <!-- Tailwind CSS CDN -->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <!-- 🧠 Add AlpineJS -->
+		<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js" defer></script>
+
+		<script>
+			window.modules = {};
+		</script>
+
+	</head>
+	<body>
+					<!-- Header -->
+			<header class="bg-[#D7D8DD] text-[#1A1A40] py-4 px-4 md:px-8 header mx-5 mt-5 md:mx-10 rounded-[20px]">
+				<div class="container mx-auto px-0 flex items-center justify-between relative">
+					<!-- Logo -->
+					<a class="flex items-center space-x-2" href="index.html">
+                                                    <img src="https://storage.perfectcdn.com/a9optm/fmxqjo2ibuxp2bof.png" alt="InstaHeist.com" title="InstaHeist ZA" alt="InstaHeist.com" width="150" height="40">
+                        					
+					</a>
+
+					<!-- Navigation -->
+					<nav class="hidden md:flex items-center space-x-6 text-sm text-gray-500">
+                        							<a href="index.html"    class="text-[#1A1A40] hover:text-[#2A62FF]  bg-white py-2 px-4 rounded-full shadow text-[#2A62FF] font-medium font-semibold underline " >
+																Sign in
+							</a>
+													<a href="terms.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Terms
+							</a>
+													<a href="privacy-policy.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Privacy Policy
+							</a>
+													<a href="contact.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																contact
+							</a>
+											</nav>
+
+					<!-- Sign Up Button -->
+					<div class=" md:flex">
+						<a href="signup.html" class="inline-flex items-center justify-center px-4 py-2 min-w-[100px] rounded-full bg-[#4f46e5] text-white text-sm font-medium shadow hover:bg-[#4338ca] transition space-x-1">
+							<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+								<circle cx="8.5" cy="7" r="4" />
+							</svg>
+							<span>Sign Up</span>
+						</a>
+					</div>
+
+					<!-- Toggle btn (Mobile only) -->
+					<div class="md:hidden">
+						<button id="menu-toggle" class="text-gray-800 focus:outline-none" aria-label="Toggle menu">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M4 6h16M4 12h16M4 18h16"></path>
+							</svg>
+						</button>
+					</div>
+				</div>
+				<!-- Mobile Fullscreen Menu -->
+				<div id="menu-overlay" class="fixed inset-0 bg-black bg-opacity-30 z-40 hidden"></div>
+			</header>
+			<nav id="mobile-menu" class="fixed inset-0 bg-white z-50 flex flex-col items-start justify-start px-6 py-6 space-y-6 transform -translate-y-full transition-transform duration-300 ease-in-out">
+				<!-- Close Button -->
+				<button id="menu-close" class="absolute top-4 right-4 text-gray-700 text-2xl">
+					&times;
+				</button>
+				<!-- Menu Links -->
+                					<a href="index.html"    class="text-lg font-medium  text-[#2A62FF] " >
+												Sign in
+					</a>
+									<a href="terms.html"    class="text-lg font-medium  text-gray-800 " >
+												Terms
+					</a>
+									<a href="privacy-policy.html"    class="text-lg font-medium  text-gray-800 " >
+												Privacy Policy
+					</a>
+									<a href="contact.html"    class="text-lg font-medium  text-gray-800 " >
+												contact
+					</a>
+							</nav>
+
+			<!-- Main variables *content* -->
+			<section class="mx-5 md:mx-10 py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 relative bg-[#5863F0] hero text-white rounded-b-[30px]">
+	<div class="container mx-auto px-0 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+		<div class="z-10">
+			<div class="mb-4">
+				<span class="inline-block bg-white text-[#2A62FF] font-semibold text-xs px-4 py-1 rounded-full relative z-10 -mt-3 sm:-mt-4">World’s #1 SMM Panel & Provider</span>
+			</div>
+			<h1 class="text-3xl md:text-5xl font-bold leading-tight mb-4">
+				Best and most affordable SMM panel services
+			</h1>
+			<p class="text-sm">
+				We offer the
+				<b>best and most cheap SMM panel</b>
+				services to help you grow fast on social media.
+			</p>
+			<p class="text-sm">
+				Our panel is your top choice for
+				<b>reselling SMM services</b>.
+			</p>
+		</div>
+		<div class="signin-form z-10">
+			<div class="bg-white text-gray-900 rounded-2xl shadow-lg p-8 w-full">
+				<div class="text-2xl font-bold mb-2">Sign in</div>
+				<p class="text-sm text-gray-600 mb-6">
+					Enter your username and password.
+				</p>
+				<form  method="post" action="index.html">
+															<div class="mb-4">
+						<label class="block text-sm font-medium mb-1" for="username">Username</label>
+						<input type='text' autocomplete='username' id="username" placeholder="Enter your username" name='LoginForm[username]'  class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]"/>
+					</div>
+					<div class="mb-4">
+						<label class="block text-sm font-medium mb-1" for="password">Password</label>
+						<input type='password' autocomplete='current-password' id="password" placeholder="Enter your password" name='LoginForm[password]'  class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]"/>
+					</div>
+					<div class="flex items-center justify-between text-sm mb-6">
+						<label class="inline-flex items-center space-x-2">
+							<input type="checkbox" class="form-checkbox text-[#2A62FF]" name="LoginForm[remember]" value="1" id="remember"/>
+							<span>Remember me</span>
+						</label>
+													<a href="resetpassword.html" class="text-[#2A62FF] hover:underline">Forgot password?</a>
+											</div>
+										<div class="flex items-center justify-between mt-6 gap-4 flex-wrap">
+						<input type="hidden" name="_csrf" value="X4ga3YzFf-1rWJfckKox0DrwCyZsm4qkSRFbngicmxA1x0K6uqIVtB0CwavCmXCTTb9oYAjquZYbU2PtV-m2cw==">
+						<button type="submit" class="bg-[#4f46e5] btn-signup text-white font-medium py-2 px-6 rounded-full shadow flex items-center space-x-2">
+							<svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M8.00057 7.99967C9.84152 7.99967 11.3339 6.50729 11.3339 4.66634C11.3339 2.82539 9.84152 1.33301 8.00057 1.33301C6.15962 1.33301 4.66724 2.82539 4.66724 4.66634C4.66724 6.50729 6.15962 7.99967 8.00057 7.99967Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+								<path d="M11.3328 9.33301H11.5675C12.0549 9.33315 12.5254 9.51125 12.8907 9.83386C13.2561 10.1565 13.491 10.6014 13.5515 11.085L13.8121 13.1677C13.8356 13.3553 13.8189 13.5458 13.7631 13.7264C13.7073 13.9071 13.6137 14.0738 13.4886 14.2155C13.3634 14.3573 13.2095 14.4708 13.0372 14.5485C12.8648 14.6262 12.6779 14.6664 12.4888 14.6663H3.51014C3.32106 14.6664 3.13413 14.6262 2.96177 14.5485C2.7894 14.4708 2.63554 14.3573 2.51039 14.2155C2.38524 14.0738 2.29166 13.9071 2.23587 13.7264C2.18009 13.5458 2.16336 13.3553 2.1868 13.1677L2.4468 11.085C2.50727 10.6012 2.74241 10.1561 3.10803 9.83342C3.47364 9.51078 3.94452 9.33282 4.43214 9.33301H4.66614" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+							</svg>
+							<span>Sign in</span>
+						</button>
+													<div class="">
+								<div id="g_id_onload" data-client_id="711199786060-iamtgmir2voejeo8v38uub34eqtqrdt9.apps.googleusercontent.com" data-login_uri="/confirm_signup" data-auto_prompt="false" data-_csrf="X4ga3YzFf-1rWJfckKox0DrwCyZsm4qkSRFbngicmxA1x0K6uqIVtB0CwavCmXCTTb9oYAjquZYbU2PtV-m2cw=="></div>
+								<div class="g_id_signin" data-type="standard" data-size="large" data-theme="outline" data-text="sign_in_with" data-shape="rectangular" data-logo_alignment="left"></div>
+							</div>
+												<a href="signup.html" class="text-sm font-semibold text-[#1A1A40] whitespace-nowrap flex items-center gap-2">
+							Sign up
+							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"/>
+							</svg>
+						</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="mx-5 md:mx-10 py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] text-[#1A1A40] benefits">
+	<div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+		<div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-12">
+			<div>
+				<span class="inline-block bg-white text-[#4f46e5] font-semibold text-xs px-4 py-1 rounded-full mb-2">BENEFITS</span>
+				<h2 class="text-1xl md:text-2xl font-bold mb-4">
+					Unlock Affordable SMM Panel Services
+				</h2>
+			</div>
+			<div>
+				<p class="text-black text-sm leading-6">
+					We provide
+					<b>low-cost SMM Panel solutions</b>
+					for everyone. Agencies and freelancers trust us because we are available 24/7 and easy to use.
+				</p>
+			</div>
+		</div>
+		<!-- Cards Grid -->
+		<div
+			class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+			<!-- Card 1 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/yecxjifd752uqtqn.png" alt="Pricing icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">Cheapest Smm Panel</h3>
+				<p class="text-sm text-gray-600">Start using our SMM services from just $0.01. It’s the perfect choice for growing your online presence on a small budget.</p>
+			</div>
+			<!-- Card 2 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/2n74td28x8fphzze.png" alt="Speed icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">Fastest Smm Panel</h3>
+				<p class="text-sm text-gray-600">
+					We complete your SMM orders quickly. No delays. Fast service at any time, day or night.
+				</p>
+			</div>
+			<!-- Card 3 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/fmudlqboz936tmbz.png" alt="Dashboard icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">Simple and Clear Dashboard</h3>
+				<p class="text-sm text-gray-600">
+					Our SMM panel is easy to use and always updated. You don’t need any special skills to get started.
+				</p>
+			</div>
+			<!-- Card 4 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/suw0inw25pyu4db5.png" alt="Updates icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">Real-Time Deals and Updates</h3>
+				<p class="text-sm text-gray-600">
+					All services and prices are updated live. You always get the best offers on InstaHeist.store.
+				</p>
+			</div>
+			<!-- Card 5 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="Reseller icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">SMM Reseller Panel</h3>
+				<p class="text-sm text-gray-600">
+					We help you resell quality SMM services worldwide. Everything is reliable and low-cost, ready for your business.
+				</p>
+			</div>
+			<!-- Card 6 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/82irppnynuknj1nx.png" alt="Quality icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">High-Quality SMM Panel</h3>
+				<p class="text-sm text-gray-600">
+					Our panel is made for users who want top results without high costs. Best quality, easy access, and trusted by many.
+				</p>
+			</div>
+			<!-- Card 7 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/qack3fjui3u2wi00.png" alt="Secure payment icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">Secure Payment Options</h3>
+				<p class="text-sm text-gray-600">
+					Pay safely with many choices like cards, digital wallets, and crypto. Everything is protected and simple.</p>
+			</div>
+			<!-- Card 8 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/da7g7y860ib085zk.png" alt="All-in-one icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">All-in-One SMM Solution</h3>
+				<p class="text-sm text-gray-600">
+					One place for all your digital growth. No need for many tools. Our panel covers everything you need.
+				</p>
+			</div>
+			<!-- Card 9 -->
+			<div class="bg-white p-6 rounded-2xl shadow-md">
+				<img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Support icon" class="mb-4 w-[70px] h-[70px]" width="70" height="70" loading="lazy">
+				<h3 class="font-semibold text-lg mb-1">24/7 Friendly Support</h3>
+				<p class="text-sm text-gray-600">
+					Our team is always ready to help. You can reach us any time if you need support or have questions.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section
+	class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white overflow-hidden">
+		<div class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+		<div class="grid lg:grid-cols-2 gap-12 items-center mb-16">
+			<div>
+				<span class="inline-block bg-[#E4E3FB] text-[#4f46e5] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+					TRUSTED BY THOUSANDS
+				</span>
+				<h2 class="text-1xl md:text-2xl font-bold leading-snug text-[#1A1A40]">
+					Trusted by Thousands, Built for Speed
+				</h2>
+			</div>
+			<div>
+				<p class="text-gray-600 text-sm leading-6 mb-6">
+					At InstaHeist.store, we process millions of orders every day with speed and care. Over 100000 users worldwide trust our panel for its strong performance and low prices. If you ever need help, our friendly support team is available during working hours to answer your questions and solve any issues quickly. We’re here to make your growth easy and stress-free.
+				</p>
+				<a href="signup.html" class="inline-flex items-center justify-center gap-2 bg-[#4f46e5] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+					Sign Up Now
+					<svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+					</svg>
+				</a>
+			</div>
+		</div>
+
+		<div
+			class="rounded-[20px] bg-[rgba(220,221,235,0.7)] backdrop-blur-[7.5px] mt-16 sm:mt-20 p-6 sm:p-10 grid md:grid-cols-3 gap-6 text-center shadow-sm">
+			<!-- Card 1 -->
+			<div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+				<img src="https://storage.perfectcdn.com/a9optm/9zn3h50j1bfqjo79.png" alt="Time" class="w-12 h-12 mb-4 mx-auto" loading="lazy">
+				<h3 class="text-xl font-bold text-[#1A1A40]">0.3Sec</h3>
+				<p class="text-sm text-gray-600">An Order is made every</p>
+			</div>
+			<!-- Card 2 -->
+			<div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+				<img src="https://storage.perfectcdn.com/a9optm/imu8zq586rj2k86i.png" alt="Check" class="w-12 h-12 mb-4 mx-auto" loading="lazy">
+				<h3 class="text-xl font-bold text-[#1A1A40]">1358024+</h3>
+				<p class="text-sm text-gray-600">Orders Completed</p>
+			</div>
+			<!-- Card 3 -->
+			<div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+				<img src="https://storage.perfectcdn.com/a9optm/4ez8jcc3kob9unsu.png" alt="Coin" class="w-12 h-12 mb-4 mx-auto" loading="lazy">
+				<h3 class="text-xl font-bold text-[#1A1A40]">$0.001/1K</h3>
+				<p class="text-sm text-gray-600">Prices Starting From</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Questions and Answers Section -->
+<section class="py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white text-[#1A1A40]">
+	<div
+		class="container mx-auto max-w-7xl px-4 grid lg:grid-cols-2 gap-12 items-start">
+		<!-- Left: Title -->
+		<div>
+			<span class="inline-block bg-[#E4E3FB] text-[#4f46e5] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+				QUICK FAQ
+			</span>
+			<h2 class="text-1xl md:text-2xl font-bold leading-snug">
+				Need Help?<br>Start Here
+			</h2>
+		</div>
+		<!-- Right: Accordions -->
+		<div x-data="{ open: 0 }" class="space-y-4">
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 1 ? open = 0 : open = 1" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>How do I register on your SMM panel?</h3>
+					<span x-text="open === 1 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 1" x-t class="px-4 pb-4 text-sm text-gray-600">
+					It’s very simple. Just sign up with your email and basic info. Our panel is used by agencies, resellers, companies, and even other SMM panel owners.
+				</div>
+			</div>
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 2 ? open = 0 : open = 2" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>Can I add funds with PayPal or a card?</h3>
+					<span x-text="open === 2 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 2" x-transition class="px-4 pb-4 text-sm text-gray-600">
+					Yes! You can add money using PayPal, debit, or credit cards. Fast and secure.
+				</div>
+			</div>
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 3 ? open = 0 : open = 3" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>How do I place an order?</h3>
+					<span x-text="open === 3 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 3" x-transition class="px-4 pb-4 text-sm text-gray-600">
+					Choose the service you want, enter the details, and click order. That’s it. We handle the rest.
+				</div>
+			</div>
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 4 ? open = 0 : open = 4" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>How can your panel help me earn money?</h3>
+					<span x-text="open === 4 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 4" x-transition class="px-4 pb-4 text-sm text-gray-600">
+					You can resell our services to others at your own price. Many users grow their own business this way.
+				</div>
+			</div>
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 5 ? open = 0 : open = 5" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>Are orders completed quickly?</h3>
+					<span x-text="open === 5 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 5" x-transition class="px-4 pb-4 text-sm text-gray-600">
+					Yes! Most orders are completed in just minutes. You can track everything live in your dashboard.
+				</div>
+			</div>
+			<div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+				<button @click="open === 6 ? open = 0 : open = 6" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+					<h3>Do you offer targeted services?</h3>
+					<span x-text="open === 6 ? '−' : '+'"></span>
+				</button>
+				<div x-cloak x-show="open === 6" x-transition class="px-4 pb-4 text-sm text-gray-600">
+					Yes, we offer location-based and targeted services to help you get real and relevant results.
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Why choose us Section -->
+<section
+	class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] overflow-hidden">
+	<!-- Right Vector Decoration -->
+	<img
+	src="https://storage.perfectcdn.com/a9optm/a35pxyw9irnu07nl.png" alt="Vector Right" class="absolute bottom-0 right-0 w-[200px] sm:w-[260px] pointer-events-none select-none z-0" loading="lazy"/>
+	<!-- Container -->
+	<div
+		class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+		<!-- Header -->
+		<div class="text-center mb-12">
+			<span class="inline-block bg-[#E4E3FB] text-[#4f46e5] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+				WHY US
+			</span>
+			<h2 class="text-1xl md:text-2xl font-bold text-[#1A1A40] mb-4">
+				Everything You Need in One SMM Panel
+			</h2>
+			<p class="text-gray-600 text-sm max-w-2xl mx-auto leading-6">
+				At InstaHeist.store, we make your work easier with 24/7 support, a simple dashboard, fast ordering, and full API access. Thousands of users trust us to deliver quality and speed at the best price.
+			</p>
+			<a href="signup.html" class="inline-flex mt-6 items-center justify-center gap-2 bg-[#4f46e5] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+				Sign Up Now
+				<svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+				</svg>
+			</a>
+		</div>
+		<!-- Feature Cards -->
+		<div
+			class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 text-center">
+			<!-- Card 1 -->
+			<div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+				<img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Live Chat Icon" class="w-12 h-12 mb-4" loading="lazy"/>
+				<h3 class="text-sm font-semibold text-[#1A1A40]">Get help anytime with our 24/7 live chat support</h3>
+			</div>
+			<!-- Card 2 -->
+			<div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+				<img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="Services Icon" class="w-12 h-12 mb-4" loading="lazy"/>
+				<h3 class="text-sm font-semibold text-[#1A1A40]">Use many services from one simple and easy panel</h3>
+			</div>
+			<!-- Card 3 -->
+			<div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+				<img src="https://storage.perfectcdn.com/a9optm/qs47b5966y9zxyg7.png" alt="Mass Order Icon" class="w-12 h-12 mb-4" loading="lazy"/>
+				<h3 class="text-sm font-semibold text-[#1A1A40]">Place mass orders in just a few clicks</h3>
+			</div>
+			<!-- Card 4 -->
+			<div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+				<img src="https://storage.perfectcdn.com/a9optm/xqs52mw7qnyqzcfw.png" alt="API Integration Icon" class="w-12 h-12 mb-4" loading="lazy"/>
+				<h3 class="text-sm font-semibold text-[#1A1A40]">Connect with our API to manage everything automatically</h3>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- SMM Reseller Panel Section -->
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white">
+	<div class="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8" x-data="{ tab: 'reseller' }">
+		<div class="text-center mb-12">
+			<span class="inline-block bg-[#E4E3FB] text-[#4f46e5] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+				SMM RESELLER PANEL
+			</span>
+			<h2 class="text-1xl md:text-2xl font-bold text-[#1A1A40] mb-4">The Cheapest SMM Reseller Panel Online</h2>
+			<p class="text-gray-600 text-sm max-w-2xl mx-auto">
+				Want to launch your own panel? With InstaHeist.store, you can resell our services using your own brand. Our white label setup makes it easy for you to start and grow.
+			</p>
+		</div>
+		<div class="flex flex-wrap justify-center gap-3 mb-4 max-w-5xl mx-auto px-4">
+			<button @click="tab = 'reseller'" :class="{ 'bg-[#4f46e5] text-white': tab === 'reseller', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'reseller' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+				What is an SMM Panel Reseller?
+			</button>
+			<button @click="tab = 'provider'" :class="{ 'bg-[#4f46e5] text-white': tab === 'provider', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'provider' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+				What is an SMM Panel Provider?
+			</button>
+			<button @click="tab = 'child1'" :class="{ 'bg-[#4f46e5] text-white': tab === 'child1', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'child1' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+				What is a Child SMM Panel?
+			</button>
+		</div>
+		<div class="bg-[#F3F4F8] p-6 md:p-8 rounded-xl text-sm text-[#1A1A40] leading-6 w-full max-w-5xl mx-auto shadow-sm">
+			<div x-cloak x-show="tab === 'reseller'" x-transition>
+				<h4 class="font-semibold mb-2">You sell services under your own brand</h4>
+				<p class="mb-4">An
+					<b>SMM panel reseller</b>
+					is someone who sells social media services by using another company’s panel. Instead of building a platform, you use a ready panel and give it your own name, logo, and prices. This is called white label reselling.</p>
+				<h4 class="font-semibold mb-2">No need to manage services yourself</h4>
+				<p class="mb-4">With InstaHeist.store, resellers don’t worry about how the services work. We manage the delivery, updates, and support. You just focus on selling and helping your clients grow.</p>
+				<h4 class="font-semibold mb-2">Great for starting your own business</h4>
+				<p class="mb-4">Freelancers, agencies, and individuals can start a business fast by becoming a reseller. You don’t need to know coding or hire developers. Everything is already built and ready to use.</p>
+			</div>
+			<div x-cloak x-show="tab === 'provider'" x-transition>
+				<h4 class="font-semibold mb-2">The source of all services</h4>
+				<p class="mb-4">An
+					<b>SMM panel provider</b>
+					is the company that offers all the tools and services in the background. At InstaHeist.store, we are the provider. We create and manage the entire system so others can resell our services.</p>
+				<h4 class="font-semibold mb-2">Everything is ready to go</h4>
+				<p class="mb-4">We manage the servers, update the services, and make sure everything runs fast. You don’t need to build anything. Just connect to our panel and start selling.</p>
+				<h4 class="font-semibold mb-2">Trusted by resellers around the world</h4>
+				<p class="mb-4">Thousands of resellers use our system every day. We provide fast support, real-time updates, and a simple dashboard to make everything easy and smooth.</p>
+			</div>
+			<div x-cloak x-show="tab === 'child1'" x-transition>
+				<h4 class="font-semibold mb-2">Your own panel with your own name</h4>
+				<p class="mb-4">A
+					<b>child SMM panel</b>
+					is a white label version of our main panel. It uses your own domain, your logo, and your prices. It looks like your own website, but it runs on our system.</p>
+				<h4 class="font-semibold mb-2">Powered by the main system</h4>
+				<p class="mb-4">Even though it’s your brand, the system behind the child panel is managed by us. You don’t need to worry about speed or service delivery. We take care of all the backend work.</p>
+				<h4 class="font-semibold mb-2">Easy to manage and grow</h4>
+				<p class="mb-4">You get a full dashboard to take orders, manage clients, and grow your business. Everything is ready to use. No coding, no setup, and no extra costs to get started.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- Steps Desktop Version Section -->
+<section class="hidden lg:block py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 bg-[#f7f7fb] text-[#1A1A40]">
+	<div class="container mx-auto max-w-6xl px-4">
+		<div class="text-center mb-12">
+			<span class="inline-block bg-[#E3DFFE] text-[#6E61E7] text-xs font-semibold px-4 py-1 rounded-full mb-4">
+				HOW IT WORKS
+			</span>
+			<h2 class="text-1xl sm:text-2xl font-bold mb-2">How Our SMM Panel work?</h2>
+			<p class="text-gray-500 text-base max-w-2xl mx-auto">
+				Getting started with InstaHeist.store is quick and simple. You don’t need any special skills to use our panel. Just follow these easy steps and start growing your online presence today.
+			</p>
+		</div>
+		<div class="bg-white rounded-[20px] p-8 shadow-sm">
+			<div
+				class="grid md:grid-cols-2 gap-12 items-start relative">
+				<!-- Vertical Line -->
+				<div class="absolute top-0 left-1/2 transform -translate-x-1/2 h-full w-[2px] bg-[#6E61E7] z-0"></div>
+				<!-- Step 1 -->
+				<div class="relative z-10">
+					<h3 class="font-bold text-lg mb-2">1. Create Your Account</h3>
+					<p class="text-gray-600 mb-4">
+						Sign up in a few seconds using your email. You’ll get access to your own dashboard where you can see all the services and track your orders.
+					</p>
+					<a href="signup.html" class="bg-[#6E61E7] text-white font-semibold rounded-full px-6 py-2 mb-6">
+						Sign Up Now →
+					</a>
+					<img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Sign up form" class="rounded-lg mt-[15px]" loading="lazy">
+				</div>
+				<!-- Step 2 -->
+				<div class="relative z-10">
+					<h3 class="font-bold text-lg mb-2">2. Add Money to Your Balance</h3>
+					<p class="text-gray-600 mb-4">
+						Choose your favorite payment method to add funds. We support many options, so it's fast and secure.
+					</p>
+					<img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Payments" class="rounded-lg" loading="lazy">
+				</div>
+				<!-- Step 3 -->
+				<div class="relative z-10">
+					<h3 class="font-bold text-lg mb-2">3. Place Your Order</h3>
+					<p class="text-gray-600 mb-4">
+						Pick the service you want, enter the details, and confirm your order. Everything is clear and easy to follow.
+					</p>
+					<img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="New Order Form" class="rounded-lg" loading="lazy">
+				</div>
+
+				<!-- Step 3 -->
+				<div class="relative z-10">
+					<h3 class="font-bold text-lg mb-2">4. Watch Your Growth</h3>
+					<p class="text-gray-600 mb-4">
+						Sit back and enjoy the results. Your order is delivered quickly, and you’ll start seeing the difference in your online reach.
+					</p>
+					<img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="have fun" class="rounded-lg" loading="lazy">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Steps Mobile Version Section -->
+<section class="block lg:hidden bg-[#f7f7fb] py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8">
+	<div class="container mx-auto max-w-2xl px-4 relative">
+		<h2 class="text-center text-[#1A1A40] font-bold text-1xl mb-4">How Our SMM Panel work?</h2>
+		<p class="text-center text-gray-600 max-w-xl mx-auto mb-12">
+			Getting started with InstaHeist.store is quick and simple. You don’t need any special skills to use our panel. Just follow these easy steps and start growing your online presence today.
+		</p>
+		<!-- Timeline line center mobile -->
+		<div class="absolute top-[30rem] bottom-14 left-1/2 transform -translate-x-1/2 w-[2px] bg-[#6E61E7] z-0"></div>
+		<div
+			class="space-y-16 relative z-10">
+			<!-- Step 1 -->
+			<div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+				<div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+				<h3 class="font-bold text-lg text-center mb-2">1. Create Your Account</h3>
+				<p class="text-gray-600 text-center mb-4">
+					Sign up in a few seconds using your email. You’ll get access to your own dashboard where you can see all the services and track your orders.
+				</p>
+				<div class="text-center">
+					<button class="bg-[#6E61E7] text-white px-6 py-2 rounded-full font-semibold">Sign Up Now →</button>
+				</div>
+				<img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Sign up form" class="rounded-lg mt-6 mx-auto" loading="lazy">
+			</div>
+			<!-- Step 2 -->
+			<div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+				<div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+				<h3 class="font-bold text-lg text-center mb-2">2. Add Money to Your Balance</h3>
+				<p class="text-gray-600 text-center mb-4">
+					Choose your favorite payment method to add funds. We support many options, so it's fast and secure.
+				</p>
+				<img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Payments" class="rounded-lg mt-6 mx-auto" loading="lazy">
+			</div>
+			<!-- Step 3 -->
+			<div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+				<div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+				<h3 class="font-bold text-lg text-center mb-2">3. Place Your Order</h3>
+				<p class="text-gray-600 text-center mb-4">
+					Pick the service you want, enter the details, and confirm your order. Everything is clear and easy to follow.
+				</p>
+				<img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="New Order" class="rounded-lg mt-6 mx-auto" loading="lazy">
+			</div>
+			<!-- Step 4 -->
+			<div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+				<div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+				<h3 class="font-bold text-lg text-center mb-2">4. Watch Your Growth</h3>
+				<p class="text-gray-600 text-center mb-4">
+					Sit back and enjoy the results. Your order is delivered quickly, and you’ll start seeing the difference in your online reach.
+				</p>
+				<img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="Have FUN!" class="rounded-lg mt-6 mx-auto" loading="lazy">
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- SMM Panel Service FAQ Section-->
+<section class="py-20 bg-white text-[#1A1A40]" x-data="{ activeTab: 0 }">
+	<div class="container mx-auto max-w-7xl px-4">
+		<div class="text-center lg:text-left mb-12 lg:mb-16">
+			<span class="inline-block bg-[#E3DFFE] text-[#2e2b9a] text-xs font-semibold px-4 py-1 rounded-full mb-4">
+				SERVICES
+			</span>
+			<h2 class="text-1xl sm:text-2xl font-bold mb-2">Fast and Low-Cost SMM Panel Services<br>
+				for Everyone</h2>
+			<p class="text-gray-500 text-base max-w-2xl mx-auto lg:mx-0">
+				At InstaHeist.store, we bring all the
+				<b>top social media tools</b>
+				into one easy platform. You can use our panel to get social media services at low prices. Everything is simple, fast, and ready to use. Our panel is made for everyone. Whether you are managing your own accounts or selling services to others, you will find all the tools you need in one place. No extra steps, no confusion.
+			</p>
+
+		</div>
+		<div
+			class="grid lg:grid-cols-2 gap-8">
+			<!-- Tabs -->
+			<div class="space-y-4">
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 0 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 0">Cheap SMM Panel with Real Growth</button>
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 1 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 1">Trusted SMM Panel Used by Thousands</button>
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 2 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 2">Best SMM Panel to Reach More People Online</button>
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 3 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 3">Easy SMM Panel with a Clean Dashboard</button>
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 4 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 4">Fast SMM Panel for Quick Delivery</button>
+				<button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 5 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 5">Reliable SMM Panel with Good Results</button>
+			</div>
+			<!-- Content -->
+			<div class="bg-[#f7f7fb] p-6 lg:p-8 rounded-[20px] shadow-sm max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-[#6E61E7] scrollbar-track-[#f1f1f9]">
+				<div x-cloak x-show="activeTab === 0">
+					<h4 class="font-bold mb-4">Lowest Prices, Real Results</h4>
+					<p class="mb-4">We offer services starting from just $0.01. This makes it easy for anyone to use our SMM panel, even with a small budget. You still get high quality, even at the lowest price.</p>
+					<h4 class="font-bold mb-4">Made for Everyone</h4>
+					<p class="mb-4">Our cheap SMM panel works for beginners, influencers, resellers, and agencies. No matter your goal, you can grow fast and spend less using our trusted platform.</p>
+				</div>
+				<div x-cloak x-show="activeTab === 1">
+					<h4 class="font-bold mb-4">Used Worldwide</h4>
+					<p class="mb-4">We are trusted by users in the USA, South Africa, Pakistan, Europe, and many other places. Over 150,000 people use our panel to grow online every day.</p>
+					<h4 class="font-bold mb-4">Reliable and Safe</h4>
+					<p class="mb-4">Our services are tested and updated often. We focus on giving you results that are real and safe. Many users come back because they know they can trust us.</p>
+				</div>
+				<div x-cloak x-show="activeTab === 2">
+					<h4 class="font-bold mb-4">Grow Your Audience</h4>
+					<p class="mb-4">Our services help you reach more people. You can grow your audience and more. It’s fast and works well for all users.</p>
+					<h4 class="font-bold mb-4">Simple Process</h4>
+					<p class="mb-4">You only need to pick a service and enter your link. We handle the rest. It’s easy and quick, and your account will grow without any hard work.</p>
+				</div>
+				<div x-cloak x-show="activeTab === 3">
+					<h4 class="font-bold mb-4">Beginner Friendly</h4>
+					<p class="mb-4">You don’t need to be a tech expert to use our panel. The design is simple and clean. Anyone can place an order in just a few clicks.</p>
+					<h4 class="font-bold mb-4">Works on All Devices</h4>
+					<p class="mb-4">Our dashboard works great on both mobile and desktop. You can check your balance, place new orders, and manage everything from anywhere.</p>
+				</div>
+				<div x-cloak x-show="activeTab === 4">
+					<h4 class="font-bold mb-4">Quick Results</h4>
+					<p class="mb-4">We deliver most services in just a few minutes. You don’t have to wait long to see your engagements go up. It’s fast and easy.</p>
+					<h4 class="font-bold mb-4">24/7 System</h4>
+					<p class="mb-4">Our panel works all day and night. No matter when you place your order, we are ready to process it right away. This helps you grow without delay.</p>
+				</div>
+				<div x-cloak x-show="activeTab === 5">
+					<h4 class="font-bold mb-4">Services That Work</h4>
+					<p class="mb-4">We only offer services that bring real results. Each service is checked and improved often to keep quality high. You can count on us to help you grow the right way.</p>
+					<h4 class="font-bold mb-4">Perfect for Resellers and Creators</h4>
+					<p class="mb-4">Whether you want to grow your own page or sell to others, our panel gives you the tools you need. It’s reliable, simple, and trusted by many.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Testmonials Sections -->
+<section class="py-20 bg-[#f7f7fb] text-[#1A1A40]" x-data="{ activeSlide: 0, testimonials: [
+						    {
+						      quote: 'We are working with here for years, and we can gladly say that they are the best SMM Providers on the market with the best support possible.',
+						      name: 'Samantha',
+						      role: 'Loyal Customer'
+						    },
+						    {
+						      quote: 'The best place for Social Media Marketing services, always delivers quickly & is really responsive.',
+						      name: 'Drasco',
+						      role: 'Agency Owner'
+						    },
+						    {
+						      quote: 'They are the best in the game, no other panel can even come close to this quality!',
+						      name: 'Julia',
+						      role: 'Marketing Specialist'
+						    },
+						    {
+						      quote: 'Highly responsive customer support is what makes this panel our #1 choice when it comes to Social Media Platform promotion.',
+						      name: 'Chris',
+						      role: 'Freelancer'
+						    }
+						  ] }">
+	<div class="container mx-auto max-w-4xl px-4">
+		<div class="bg-[#e9e9f4] rounded-[20px] p-10 relative text-center text-gray-800">
+			<img src="https://storage.perfectcdn.com/a9optm/6qopbggd1sf24a1w.png" alt="Quote" class="w-12 mx-auto mb-6" width="400" height="300" loading="lazy">
+			<template x-for="(testimonial, index) in testimonials" :key="index">
+				<div x-cloak x-show="activeSlide === index" x-transition>
+					<p class="text-lg text-[#1A1A40] mb-6 max-w-2xl mx-auto" x-text="testimonial.quote"></p>
+					<div class="flex items-center justify-center gap-3 mt-4">
+						<svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" fill="#6e61e7">
+							<path d="M12,19.2C9,19.2 6.5,17.7 5.2,15.3C5.2,13 9.3,11.8 12,11.8C14.7,11.8 18.8,13 18.8,15.3C17.5,17.7 15,19.2 12,19.2M12,4.8C13.8,4.8 15.2,6.2 15.2,8C15.2,9.8 13.8,11.2 12,11.2C10.2,11.2 8.8,9.8 8.8,8C8.8,6.2 10.2,4.8 12,4.8M12,2C6.5,2 2,6.5 2,12C2,17.5 6.5,22 12,22C17.5,22 22,17.5 22,12C22,6.5 17.5,2 12,2Z"/>
+						</svg>
+
+						<div class="text-left">
+							<div class="font-semibold text-sm text-[#1A1A40]" x-text="testimonial.name"></div>
+							<div class="text-xs text-gray-700" x-text="testimonial.role"></div>
+						</div>
+					</div>
+				</div>
+			</template>
+			<!-- Controls -->
+			<button @click="activeSlide = (activeSlide === 0 ? testimonials.length - 1 : activeSlide - 1)" aria-label="Previous testimonial" class="absolute left-4 top-1/2 -translate-y-1/2 bg-[#6E61E7] hover:bg-[#5c50c4] text-white w-10 h-10 flex items-center justify-center rounded-full">
+				<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewbox="0 0 20 20" fill="currentColor">
+					<path fill-rule="evenodd" d="M12.707 15.707a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 111.414 1.414L8.414 10l4.293 4.293a1 1 0 010 1.414z" clip-rule="evenodd"/>
+				</svg>
+			</button>
+			<button @click="activeSlide = (activeSlide + 1) % testimonials.length" aria-label="Next testimonial" class="absolute right-4 top-1/2 -translate-y-1/2 bg-[#6E61E7] hover:bg-[#5c50c4] text-white w-10 h-10 flex items-center justify-center rounded-full">
+				<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewbox="0 0 20 20" fill="currentColor">
+					<path fill-rule="evenodd" d="M7.293 4.293a1 1 0 011.414 0l5 5a1 1 0 010 1.414l-5 5a1 1 0 11-1.414-1.414L11.586 10 7.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/>
+				</svg>
+			</button>
+		</div>
+	</div>
+</section>
+
+<!-- FAQ Sections -->
+<section class="py-20 bg-white text-[#1A1A40]">
+	<div class="container mx-auto px-4 max-w-6xl">
+		<div
+			class="grid md:grid-cols-1 gap-12">
+			<!-- Left Side -->
+			<div>
+				<span class="inline-block  bg-[#E3DFFE] text-[#2e2b9a]  text-xs font-semibold px-4 py-1 rounded-full mb-4">
+					FAQ
+				</span>
+				<h2 class="text-1xl font-bold mb-4">Frequently Asked Questions</h2>
+				<p class="text-gray-600">
+					Looking for the
+					<strong>best SMM panels online</strong>? Whether you're a freelancer, small agency, or just trying to grow something on the side, we've put together real answers to common questions. From pricing and safety to tracking orders and reselling tips — here's what you need to know before diving in.
+				</p>
+			</div>
+
+            <div x-data="{ selected: 0 }" class="grid grid-cols-1 md:grid-cols-2 gap-4 items-start">
+			
+				<!-- FAQ 1 -->
+				<div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+					<button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+						<h3>What is an SMM panel?</h3>
+						<svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+						</svg>
+						<svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"/>
+						</svg>
+					</button>
+					<div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+						<p class="mb-4">
+							So, here’s the deal —
+							if you’re trying to grow online and don’t have the time (or patience) to do everything manually, using an <strong>easy smm panel</strong> can seriously save you a ton of effort. 
+                            It’s basically a site where you can <strong>buy social media services</strong> — stuff that helps boost your visibility, build some traction, and honestly just make things look more polished from the outside.
+                        </p>
+						<p class="mb-4">I’ve tried a bunch of them over time, but
+							what makes a <strong>smm panel</strong> stand out, in my opinion, is how straightforward it is. 
+                            Like, I don’t want to spend hours figuring out where to click or what to order — I just want something clean, fast, and that actually works. 
+                            Whether you’re just starting out or you’ve been at this game for a while,
+							a <strong>best smm panel</strong> should be simple enough for anyone to use but solid enough to deliver real value.
+						</p>
+						<p class="mb-4">Oh — and
+							price matters too, right? The good ones don’t overcharge, and the quality doesn’t feel sketchy. I always check that the site looks legit, works smoothly, and doesn’t make me second-guess if it’s safe. If it checks those boxes? You’re good to go.
+                        </p>
+					</div>
+				</div>
+
+				<!-- FAQ 2 -->
+				<div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+					<button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+						<h3>Which is the best SMM panel?</h3>
+						<svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+						</svg>
+						<svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"/>
+						</svg>
+					</button>
+					<div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+						<p class="mb-4">If you’ve ever spent hours trying to find a decent <strong>smm panel</strong> that actually works and doesn’t feel like a sketchy gamble, yeah been there. Honestly,
+							what sets some of the <strong>top SMM panels</strong> apart
+							isn’t just flashy promises or big words, but the basics done right: fast support when something’s off, a bunch of services to choose from (without needing a manual to understand), and clear, upfront pricing. No weird surprises.
+                        </p class="mb-4">
+						<p class="mb-4">
+							What makes a panel feel like <strong>the best smm panel</strong>
+							at least in my experience — is when they stay on top of all the little changes that keep happening in the digital world. Like, one day something works, the next day it doesn’t? Yeah, good panels adjust fast so you’re not left wondering what broke. Long story short,
+							if it’s simple to use, reliable, and doesn’t waste your time
+							you’re probably looking at one of the <strong>top SMM panels</strong> already.
+                        </p>
+					</div>
+				</div>
+
+				<!-- FAQ 3 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which is the cheapest SMM panel?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you’re on the hunt for a <strong>low-cost SMM panel</strong>, let me save you some time — there are actually options out there that don’t suck. 
+                            Seriously. You don’t have to blow your whole budget just to get decent results. 
+                            I’ve come across some that offer <strong>cheap social media services</strong> without cutting corners on quality, which honestly surprised me at first.
+                        </p>
+                        <p class="mb-4">
+                            What makes a good one stand out? It’s when the prices stay low but the services actually work. 
+                            Like, even if you’re working with a tight budget — and hey, we’ve all been there — you can still grow your online presence. 
+                            The better ones also keep things fresh by adding new services regularly and even tossing out discounts here and there. 
+                            So yeah, finding the <strong>cheapest smm panel</strong> doesn’t mean settling for junk — you just need to know where to look.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 4 
+				<div class="bg-[#f7f7fb] rounded-lg shadow-sm">
+					<button @click="selected === 4 ? selected = null : selected = 4" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+						<h3>Which is the best Reseller SMM Panel?</h3>
+						<svg x-cloak x-show="selected !== 4" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+						</svg>
+						<svg x-cloak x-show="selected === 4" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"/>
+						</svg>
+					</button>
+					<div x-cloak x-show="selected === 4" x-transition class="px-5 pb-4 text-sm text-gray-600">
+						<p class="mb-4">InstaHeist.store is a top choice for resellers because it offers many high-quality social media services at low wholesale prices. You can find services for all major platforms. This helps resellers meet different client needs while keeping a good profit.</p>
+						<p class="mb-4">The panel is easy to use and made for resellers. You can manage orders and track progress without any confusion. It also gives you useful tools to see how your orders are doing and manage your clients better.</p>
+						<p class="mb-4">InstaHeist.store is known for being reliable and offering fast help when needed. Orders are delivered on time, and if you have any questions, the support team is always ready to assist. This makes it great for both new and experienced resellers.</p>
+						<p class="mb-4">Thanks to its great mix of quality, low prices, easy tools, and strong support, InstaHeist.store is the best SMM panel for anyone who wants to grow their business and keep clients happy.</p>
+					</div>
+				</div>
+-->
+				<!-- FAQ 5 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which is the best SMM panel in South Africa?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you're in South Africa and trying to grow online without spending a ton, finding a good <strong>South African smm panel</strong> makes a big difference. 
+                            I’ve messed around with a few, and honestly, you don’t need something fancy — just something that works, doesn’t overcomplicate things, and fits your budget. 
+                            Whether you’re using it for yourself or reselling to clients, there are options out there that tick all the right boxes.
+                        </p>
+                        <p class="mb-4">
+                            What I like is when the setup’s simple — like, you don’t need a tutorial just to place an order. 
+                            <strong>The cheapest smm panel in South Africa</strong> doesn’t mean “bad,” either. Some of the better ones are cheap and reliable, which is kind of rare. 
+                            And if anything goes sideways? It helps when support is actually there, not just a bot or a black hole. 
+                            So yeah, a solid <strong>South African smm panel</strong> should feel easy, affordable, and actually helpful — that’s really all you need.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 6 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which SMM panel is the best in Pakistan?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you're based in Pakistan and trying to grow online or help others do it — finding a decent <strong>Pakistan smm panel</strong> can save you a lot of stress. 
+                            I’m not talking about anything fancy. Just something that works, doesn’t take forever to deliver, and doesn’t cost a fortune.
+                        </p>
+                        <p class="mb-4">
+                            I’ve seen a bunch of <strong>Pak smm panel</strong> options out there, but honestly, not all of them are worth your time.
+                             The good ones? They’re quick, cheap, and don’t make you jump through hoops just to get started. 
+                             And if you’re reselling or running ads for clients, having the <strong>cheapest smm panel Pakistan</strong> that actually works? That’s gold. You don’t need 100 tools — just one that does the job and doesn’t mess around.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 7 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which SMM panel works best in the USA?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you’re in the U.S. and need a <strong>US smm panel</strong> that actually works without driving you crazy, there are some solid options out there. 
+                            I’ve used a few over the years, and honestly, the ones that keep it simple and fast? Total lifesavers. 
+                            Whether you’re managing your own stuff or handling clients, having a clean dashboard and smooth order flow just makes everything easier.
+                        </p>
+                        <p class="mb-4">
+                            What I like most about a good <strong>SMM panel USA</strong> is when it doesn’t feel like a chore. Orders go through quick, you’ve got all the tools in one place, and things actually run the way they should. 
+                            Plus, if you’re more comfortable in English — which, let’s be real, most of us are — finding an <strong>English SMM panel</strong> that’s not full of confusing options is a big win. 
+                            You just want something reliable, fast, and built for actual users. 
+                            That’s what makes a <strong>top quality SMM panel</strong> stand out from the rest of the noise when it comes to <strong>SMM panels in USA</strong>.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 8 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which is the top SMM panel in the UK?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you're in the UK and looking for a reliable <strong>smm panel</strong>, there are a few things that matter right away. 
+                            You want something that’s affordable, easy to use, and doesn’t make you wait around forever for things to get done. 
+                            That’s exactly why a lot of people lean toward a trusted <strong>smm panel UK</strong> setup. It just works.
+                        </p>
+                        <p class="mb-4">
+                            Whether you're brand new to this or already running multiple accounts, the better platforms are built to handle both. 
+                            They offer clean dashboards, quick order processing, and full access to the <strong>smm panel services</strong> that actually get results. 
+                            If you're someone who resells or plans to, having an <strong>smm panel for resellers</strong> with proper tools and API access can really streamline everything.
+                        </p>
+                        <p class="mb-4">
+                            A <strong>top smm panel</strong> doesn’t need to be flashy. It just needs to deliver consistently, support all the main features, and give you some flexibility.
+                            If you're using an <strong>API smm panel</strong>, for example, things like speed and reliability make all the difference. 
+                            And when those boxes are checked, growing your project or business becomes a whole lot easier.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 9 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which is the most trusted SMM panel in Bangladesh?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            So here’s the thing — in Bangladesh, a ton of folks are using some kind of <strong>smm panel</strong> to either grow their stuff or resell services. 
+                            And yeah, it actually works… if you pick the right one. You don’t need to be a pro or anything — most of these setups are super straightforward. 
+                            Like, you sign up and boom, you’re ready to go. No weird learning curve.
+                        </p>
+
+                        <p class="mb-4">What really matters, though, is finding a <strong>Bangladeshi smm panel</strong> that isn’t just talk. 
+                            I’m talking fast processing, no random glitches, and tools that do what they’re supposed to. 
+                            I’ve seen people — total beginners even — start from scratch and build something real with the right panel.
+                        </p>
+
+                        <p class="mb-4">You just need to stick with <strong>trusted smm panels</strong>, the ones that don’t overpromise but still deliver. 
+                            And honestly, the <strong>quality smm panels</strong> aren’t always the flashiest… but they’re consistent, and that’s what counts.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 10 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which is the best SMM panel for users in Indonesia?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            If you’re in Indonesia and trying to grow your presence online or even running client accounts — having the right <strong>SMM panel</strong> honestly makes a huge difference. 
+                            I’ve seen people get stuck with platforms that are either too complicated or just flat-out slow. 
+                            But a solid <strong>Indonesia SMM panel</strong>? It should feel easy from the moment you log in.
+                        </p>
+                        <p class="mb-4">
+                            What I like about a good <strong>SMM panel Indonesia</strong> is that you don’t need to be a pro to use it. 
+                            The dashboard’s clean, things load fast, and if you’re juggling multiple accounts or reselling services, it just helps you stay organized. 
+                            And yeah, pricing matters too — no one wants to overpay for basic stuff. 
+                            The <strong>best SMM panel Indonesia</strong> will give you good value without cutting corners.
+                        </p>
+                        <p class="mb-4">
+                            Even better — if you’re looking for a <strong>SMM reseller panel Indonesia</strong> setup — you get control over everything, and if anything feels off, there’s usually support ready to help. 
+                            At the end of the day, it's all about keeping things simple, smooth, and stress-free — that’s what a proper panel should do.
+                        </p>
+                    </div>
+                </div>
+
+				<!-- FAQ 11 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Which countries use SMM panel?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            You’d be surprised how global the <strong>SMM market</strong> really is. Right now, people from all over the world are using the same tools to grow their online presence, 
+                            manage client work, or build reselling businesses — all through one solid <strong>smm service panel</strong>.
+                        </p>
+                        <p class="mb-4">
+                            We’re talking users from 
+                            <a href="smm-panel-india.html" class="underline text-[#6e61e7]">South Africa</a>, 
+                            <a href="smm-panel-pakistan.html" class="underline text-[#6e61e7]">Pakistan</a>,
+                            <a href="smm-panel-japan.html" class="underline text-[#6e61e7]">Japan</a>,
+                            <a href="smm-panel-bangladesh.html" class="underline text-[#6e61e7]">Bangladesh</a>,
+                            <a href="smm-panel-usa.html" class="underline text-[#6e61e7]">United States</a>,
+                            <a href="smm-panel-france.html" class="underline text-[#6e61e7]">France</a>,
+                            <a href="smm-panel-spain.html" class="underline text-[#6e61e7]">Spain</a>,
+                            <a href="smm-panel-morocco.html" class="underline text-[#6e61e7]">Morocco</a>,
+                            <a href="smm-panel-vietnam.html" class="underline text-[#6e61e7]">Vietnam</a>,
+                            <a href="smm-panel-egypt.html" class="underline text-[#6e61e7]">Egypt</a>, 
+                                Tanzania, 
+                            <a href="smm-panel-turkey.html" class="underline text-[#6e61e7]">Turkey</a>,
+                            <a href="smm-panel-brasil.html" class="underline text-[#6e61e7]">Brazil</a>, 
+                                Iran,
+                            <a href="smm-panel-russia.html" class="underline text-[#6e61e7]">Russia</a>,
+                            <a href="smm-panel-nigeria.html" class="underline text-[#6e61e7]">Nigeria</a>,
+                            <a href="smm-panel-germany.html" class="underline text-[#6e61e7]">Germany</a>,
+                            <a href="smm-panel-indonesia.html" class="underline text-[#6e61e7]">Indonesia</a>,
+                            <a href="smm-panel-uk.html" class="underline text-[#6e61e7]">United Kingdom</a>,
+                            <a href="smm-panel-philippines.html" class="underline text-[#6e61e7]">Philippines</a>,
+                            <a href="smm-panel-sri-lanka.html" class="underline text-[#6e61e7]">Sri Lanka</a>, 
+                                Algeria, 
+                                Saudi Arabia, 
+                                United Arab Emirates (UAE),
+                            <a href="smm-panel-italy.html" class="underline text-[#6e61e7]">Italy</a>,
+                            <a href="smm-panel-canada.html" class="underline text-[#6e61e7]">Canada</a>,
+                            <a href="smm-panel-lithuania.html" class="underline text-[#6e61e7]">Lithuania</a>,
+                            <a href="smm-panel-termurah.html" class="underline text-[#6e61e7]">Termurah</a>,
+                            <a href="smm-panel-south-korea.html" class="underline text-[#6e61e7]">South Korea</a>,
+                            <a href="smm-panel-thailand.html" class="underline text-[#6e61e7]">Thailand</a>,
+                            <a href="smm-panel-mexico.html" class="underline text-[#6e61e7]">Mexico</a>,
+                            <a href="african-smm-panel.html" class="underline text-[#6e61e7]">Africa</a>,
+                            <a href="arab-smm-panel.html" class="underline text-[#6e61e7]">Arabic</a>,
+                            <a href="smm-panel-china.html" class="underline text-[#6e61e7]">China</a>,
+                            <a href="smm-panel-australia.html" class="underline text-[#6e61e7]">Australia</a>,
+                            <a href="smm-panel-kenya.html" class="underline text-[#6e61e7]">Kenya</a>,
+                            <a href="mena-smm-panel.html" class="underline text-[#6e61e7]">الدول العربية</a>
+                            and honestly, a bunch of other places too.
+                        </p>
+                        <p class="mb-4">
+                            That’s the thing about a good <strong>smm panel center</strong> — it’s built to work across borders. 
+                            Doesn’t matter if you’re working from a coworking space in Japan or a home office in Canada — the tools are fast, reliable, and easy to use. 
+                            No complicated setup, no confusing steps. Just log in, place your order, and go.
+                        </p>
+                        <p class="mb-4">
+                            If you’re serious about tapping into the global side of this space, having a trusted <strong>main smm panel</strong> is kinda non-negotiable. 
+                            It saves time, scales with you, and most importantly, works no matter where you are.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 12 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>How much does an SMM panel usually cost?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            It’s usually pretty low-cost, to be honest. >You can find a <strong>cheap smm panel</strong> where things start for pocket change.
+                            That’s kind of the appeal — it lets you run tests or small tasks without spending a fortune. 
+                            A lot of people try different ones before settling on an <strong>affordable smm panel</strong> that actually works well.
+                        </p>
+                        <p class="mb-4">
+                            Now, if you want more features or smoother speed, a <strong>unique smm panel</strong> might charge a bit more, but sometimes it's worth it. 
+                            And just in case you're still asking <strong>what is a smm panel</strong>, think of it like a shortcut — a place where you can manage online growth stuff without doing it all manually.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 13 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Is it safe to pay for SMM panel services online?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            It can be, but only if you're careful. A <strong>secure smm panel</strong> should have a normal-looking checkout page, not some sketchy third-party form that asks for odd details.
+                        </p>
+                        <p class="mb-4">
+                            If something seems off — like a weird pop-up, an error after payment, or no confirmation — stop and <strong>contact support</strong> immediately. 
+                            If they ignore you or give you the runaround, <strong>report it to your bank or payment provider</strong> without waiting. A <strong>safe smm panel</strong> won’t leave you guessing or chasing your money. 
+                            Always start small just to be sure before going all in.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 14 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Do SMM panels accept international payments?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            Yeah, most of them do. A <strong>good global smm panel</strong> usually accepts multiple payment types — cards, wallets, sometimes crypto. 
+                            It’s actually one of the reasons people from different countries use them.
+                        </p>
+                        <p class="mb-4">
+                            If you're outside the US or Europe, just make sure your payment method works before adding balance. 
+                            A legit <strong>international smm panel</strong> will usually explain this somewhere on the site. If not, ask support before paying anything.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 15 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Can I resell services from an SMM panel to my clients?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            For sure. A lot of folks use a <strong>smm panel for resellers</strong> to run a side hustle or even build an agency. You get access to the services, and then you set your own pricing for clients.
+                        </p>
+                        <p class="mb-4">
+                            Just make sure you're picking a <strong>reseller smm panel</strong> that’s actually stable and updates things regularly. You don’t want to sell something that randomly stops working. The <strong>perfect smm panel</strong> should make it easy to manage orders, explain what each service does, and not make your job harder.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 16 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>What should I look for in a good SMM panel?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            Look for one that actually explains what you’re getting. A <strong>quality smm panel</strong> should be simple, not overloaded with weird terms or broken buttons. Support should reply, even if it's just a quick answer.
+                        </p>
+                        <p class="mb-4">
+                            The <strong>best smm panel</strong> usually isn’t the fanciest one — it’s the one that works without drama. If the dashboard is clean, updates are fast, and prices make sense, that’s your sign. A solid <strong>main smm panel</strong> will help you focus on getting results, not fixing problems all day.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 17 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Can I track my orders in real time?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            Yep, at least on any panel that’s worth using. A <strong>live tracking smm panel</strong> lets you see your order’s status as it happens. 
+                            That means no guessing if it’s working or not.
+                        </p>
+                        <p class="mb-4">
+                            If you’re managing client work or even just staying organized, a solid <strong>order tracking smm panel</strong> saves you a ton of back-and-forth.
+                            A <strong>perfect smm panel</strong> won’t make you email support every time you need an update — you’ll just log in and check.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ 18 -->
+                <div x-data="{ open: false }" class="bg-[#f7f7fb] rounded-lg shadow-sm">
+                    <button @click="open = !open" class="w-full flex justify-between items-center px-5 py-4 font-medium text-left">
+                        <h3>Is it safe to use an SMM panel for my business?</h3>
+                        <svg x-show="!open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+                        </svg>
+                        <svg x-show="open" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+                        </svg>
+                    </button>
+                    <div x-show="open" x-transition class="px-5 pb-4 text-sm text-gray-600">
+                        <p class="mb-4">
+                            It can be, but only if you pick carefully. A <strong>trusted smm panel</strong> won’t make wild promises or vanish when something goes wrong. 
+                            They’ll tell you what to expect and stick to it.
+                        </p>
+                        <p class="mb-4">
+                            If you’re using this for your business, play it smart — test the panel first, see how support responds, and don’t rely on it 100% until you’re sure. 
+                            A <strong>safe smm panel</strong> should feel like a tool, not a risk. 
+                            And if you find a <strong>unique smm panel</strong> that runs smooth, it can actually free up time and help you scale faster.
+                        </p>
+                    </div>
+                </div>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Newsletter Section -->
+<section
+	class="mx-5 md:mx-10 py-20 bg-gradient-to-r from-[#4D61E7] to-[#6E61E7] text-white newsletter relative overflow-hidden mb-8">
+	<!-- Left Bottom Decoration -->
+	<img
+	src="https://storage.perfectcdn.com/a9optm/ss0tioi4rksfh77t.png" alt="" role="presentation" class="absolute bottom-[0px] left-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+	<!-- Right Top Decoration -->
+	<img src="https://storage.perfectcdn.com/a9optm/jzaek7axl0p31p1p.png" alt="" role="presentation" class="absolute top-[0px] right-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+	<div class="container mx-auto px-4 max-w-7xl">
+		<div
+			class="grid md:grid-cols-2 items-center gap-10">
+			<!-- Left -->
+			<div>
+				<button class="bg-white text-[#6E61E7] text-xs font-bold px-4 py-2 rounded-full mb-4 shadow-md">
+					SUBSCRIBE
+				</button>
+				<h2 class="text-3xl font-bold leading-snug mb-4">Get the latest SMM<br>Panel Server updates</h2>
+				<p class="text-sm text-white/80 max-w-md">
+					Get updates on the latest social media marketing, popular services and all the tips & tricks to
+										                                        keep your business powerful.
+				</p>
+			</div>
+			<!-- Right -->
+			<div>
+				<form class="bg-white p-[5px] rounded-full flex items-center justify-between w-full max-w-xl">
+					<input type="email" aria-label="Email address" placeholder="Enter your email address" required class="bg-white text-[#1A1A40] placeholder:text-gray-400 px-5 py-3 rounded-full w-full focus:outline-none">
+					<button type="submit" disabled class="bg-[#6E61E7] hover:bg-[#5c50c4] text-white text-sm font-semibold px-6 py-3 rounded-full ml-2">
+						Subscribe
+					</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+			<!-- footer -->
+            <footer class="bg-[#1A1A40] text-white py-16 text-sm">
+                <div class="container mx-auto max-w-7xl px-4 grid md:grid-cols-1">
+                    <!-- Column 1: Logo & Description -->
+                    <div>
+                        <img src="https://storage.perfectcdn.com/a9optm/17tlr8tbgy4qaqi4.png" alt="InstaHeist ZA" class="h-10 mb-4" width="215" height="58" loading="lazy">
+                        <p class="text-white/80 leading-6">
+                            InstaHeist ZA is your trusted provider for social media marketing tools.
+                            Affordable, fast, and powerful. Grow your business with ease.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Bottom bar -->
+                <div class="text-center mt-12 border-t border-white/10 pt-6 text-white/50 text-xs">
+                    © 2025 InstaHeist ZA. All rights reserved.
+                </div>
+            </footer>
+		
+		<!-- Notifications wrapper -->
+		<div id="notify-wrapper" class="alert alert-success hidden" style="display: none;"></div>
+		<div id="copy-toast" class="fixed top-10 right-5 bg-gray-800 text-white text-sm px-4 py-2 rounded-lg shadow-lg opacity-0 transition-opacity duration-300 z-50 pointer-events-none">
+			Copied to clipboard!
+		</div>
+
+    	
+		<!-- Bonus Modal -->
+                <div x-data="bonusModal" x-init="init()" x-cloak x-show="showBonus" class="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60">
+                        <div @click.away="hide()" class="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 relative overflow-hidden">
+
+				<!-- Close button -->
+                                <button @click="hide()" class="absolute top-4 right-4 text-gray-400 hover:text-red-500 text-xl font-bold">&times;</button>
+
+				<!-- Header -->
+				<div class="text-center">
+					<h3 class="text-lg font-semibold text-indigo-500 tracking-wide uppercase">Exclusive Bonus</h3>
+					<h2 class="text-3xl font-extrabold text-gray-800 mt-2">Claim <span class="text-yellow-500" x-text="bonus_percent + '% Bonus'"></span> Now!</h2>
+				</div>
+
+				<div class="relative my-6">
+					<div class="flex overflow-hidden relative">
+
+						<!-- Left Side -->
+						<div class="relative bg-gradient-to-r from-red-500 to-yellow-400 text-white w-80 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-sm uppercase tracking-widest font-semibold">Up To</span>
+							<span class="text-5xl font-extrabold leading-none" x-text="bonus_percent">20</span>
+
+							<!-- Top Left -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Left -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Right Top -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Right Bottom -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+						</div>
+
+						<!-- Right Side -->
+						<div class="relative bg-gradient-to-r from-sky-400 to-indigo-500 text-black w-1/3 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-5xl font-extrabold leading-none">%</span>
+							<span class="text-sm uppercase tracking-widest font-semibold">Off</span>
+
+							<!-- Top Right -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Right -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Left Top -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Left Bottom -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+						</div>
+					</div>
+				</div>
+
+
+
+				<!-- Footer -->
+				<div class="text-center mt-4">
+				<p class="text-sm text-gray-500">Valid until <strong x-text="valid_until_date + ' - ' + valid_until_time"></strong> <strong>GMT</strong></p>
+				</div>
+
+				<!-- CTA Button -->
+				<div class="mt-6 text-center">
+                                        <button @click="hide()" class="w-full px-5 py-2 rounded-xl bg-gradient-to-r from-sky-400 to-indigo-500 text-white font-semibold shadow hover:scale-105 transition transform duration-300">
+                                                Got It!
+                                        </button>
+				</div>
+
+			</div>
+		</div>
+      
+          
+                <!-- Back to Top Button -->
+                <button id="backToTop" aria-label="Back to top" class="hidden fixed bottom-6 right-6 z-40 p-3 rounded-full bg-[#4f46e5] text-white shadow-lg">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
+                        </svg>
+                </button>
+      
+		
+
+
+
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/libs/jquery/1.12.4/jquery.min.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/xx1pjazll6rkdn33.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/02ou42xtpx6boaea.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/7gunsx8o4lyb4y43.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/rnkzhgwcy0rf9dks.js"  >
+							</script>
+					<script type="text/javascript"  src="https://accounts.google.com/gsi/client"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/p8q3pyeo3xt5wxu7.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/lyswysyd3tpc7x3p.js"  >
+							</script>
+					<script type="text/javascript"  >
+				                    window.modules.layouts = {"theme_id":1,"auth":0,"live":true,"csrftoken":"X4ga3YzFf-1rWJfckKox0DrwCyZsm4qkSRFbngicmxA1x0K6uqIVtB0CwavCmXCTTb9oYAjquZYbU2PtV-m2cw=="};
+                			</script>
+					<script type="text/javascript"  >
+				                    window.modules.signin = [];
+                			</script>
+					<script type="text/javascript"  >
+							</script>
+		    <script>
+        window.userData = {
+            username: '',
+            balance: parseFloat(''),
+            id: '',
+            hasError: false
+        };
+    </script>
+
+	</body>
+</html>

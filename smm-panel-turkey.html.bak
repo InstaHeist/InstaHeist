@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="darkmode.css">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Türkiye SMM Paneli – Hızlı ve Kolay Hizmet</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="Türkiye’nin en iyi SMM panelini kullanın. Uygun fiyatlı ve hızlı sosyal medya hizmetleri.">
+      	<meta name="google-site-verification" content="0Efi9cNqCWr4n9l-2Pu5bkajIb8TvBAsS6KU9hVaX1A" />
+
+					<link rel="shortcut icon" type="image/ico" href="https://storage.perfectcdn.com/a9optm/6lrdlgj7bp5ru0yg.ico"/>
+				<link rel="canonical" href="https://InstaHeist.com/smm-panel-turkey" /><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PHDSBVMMF8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PHDSBVMMF8');
+</script>
+
+
+<meta name="heleket" content="05b52c3b" />
+
+<script src="https://browser.sentry-cdn.com/9.12.0/bundle.min.js" crossorigin="anonymous"></script>
+
+<script>Sentry.init({ dsn: 'https://294a44a1147a468c88270ee2dd6ecde9@sentry.io/4504813329711104' });</script>
+
+
+
+									<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/ty7d7m6ibnt12o58.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/kyrwbf3efnq1yr0f.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/libs/bootstrap-datetimepicker/4.17.47/bootstrap-datetimepicker.min.css">
+																	<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/i76bg9kfcu5px52e.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/0cppkyps8we2szqc.css">
+					
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
+		
+        <!-- Tailwind CSS CDN -->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <!-- 🧠 Add AlpineJS -->
+		<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js" defer></script>
+
+		<script>
+			window.modules = {};
+		</script>
+
+	</head>
+	<body>
+					<!-- Header -->
+			<header class="bg-[#D7D8DD] text-[#1A1A40] py-4 px-4 md:px-8 header mx-5 mt-5 md:mx-10 rounded-[20px]">
+				<div class="container mx-auto px-0 flex items-center justify-between relative">
+					<!-- Logo -->
+					<a class="flex items-center space-x-2" href="index.html">
+                                                    <img src="https://storage.perfectcdn.com/a9optm/fmxqjo2ibuxp2bof.png" alt="InstaHeist.com" title="InstaHeist ZA" alt="InstaHeist.com" width="150" height="40">
+                        					
+					</a>
+
+					<!-- Navigation -->
+					<nav class="hidden md:flex items-center space-x-6 text-sm text-gray-500">
+                        							<a href="index.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Sign in
+							</a>
+													<a href="terms.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Terms
+							</a>
+													<a href="privacy-policy.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Privacy Policy
+							</a>
+													<a href="contact.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																contact
+							</a>
+											</nav>
+
+					<!-- Sign Up Button -->
+					<div class=" md:flex">
+						<a href="signup.html" class="inline-flex items-center justify-center px-4 py-2 min-w-[100px] rounded-full bg-[#4f46e5] text-white text-sm font-medium shadow hover:bg-[#4338ca] transition space-x-1">
+							<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+								<circle cx="8.5" cy="7" r="4" />
+							</svg>
+							<span>Sign Up</span>
+						</a>
+					</div>
+
+					<!-- Toggle btn (Mobile only) -->
+					<div class="md:hidden">
+						<button id="menu-toggle" class="text-gray-800 focus:outline-none" aria-label="Toggle menu">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M4 6h16M4 12h16M4 18h16"></path>
+							</svg>
+						</button>
+					</div>
+				</div>
+				<!-- Mobile Fullscreen Menu -->
+				<div id="menu-overlay" class="fixed inset-0 bg-black bg-opacity-30 z-40 hidden"></div>
+			</header>
+			<nav id="mobile-menu" class="fixed inset-0 bg-white z-50 flex flex-col items-start justify-start px-6 py-6 space-y-6 transform -translate-y-full transition-transform duration-300 ease-in-out">
+				<!-- Close Button -->
+				<button id="menu-close" class="absolute top-4 right-4 text-gray-700 text-2xl">
+					&times;
+				</button>
+				<!-- Menu Links -->
+                					<a href="index.html"    class="text-lg font-medium  text-gray-800 " >
+												Sign in
+					</a>
+									<a href="terms.html"    class="text-lg font-medium  text-gray-800 " >
+												Terms
+					</a>
+									<a href="privacy-policy.html"    class="text-lg font-medium  text-gray-800 " >
+												Privacy Policy
+					</a>
+									<a href="contact.html"    class="text-lg font-medium  text-gray-800 " >
+												contact
+					</a>
+							</nav>
+
+			<!-- Main variables *content* -->
+			<section class="mx-5 md:mx-10 py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 relative bg-gradient-to-r bg-gradient-to-r hero text-white rounded-b-[30px]">
+    <!-- <img src="https://storage.perfectcdn.com/abgd2z/73ipl84kgl5gri5i.svg" alt="" class="absolute top-[-1px] left-[-1px] w-50 pointer-events-none select-none" loading="lazy"> -->
+    <!-- <img src="https://storage.perfectcdn.com/abgd2z/hiq9qz685fgf54x1.svg" alt="" class="absolute bottom-[1px] right-[1px] w-50 pointer-events-none select-none" loading="lazy"> -->
+    <div class="container mx-auto px-0 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div class="z-10">
+            <div class="mb-4">
+                <span class="inline-block bg-white text-[#2A62FF] font-semibold text-xs px-4 py-1 rounded-full relative z-10 -mt-3 sm:-mt-4 ml-2 sm:ml-4">Dünyanın #1 SMM Paneli ve Sağlayıcısı</span>
+            </div>
+            <h1 class="text-4xl md:text-5xl font-bold leading-tight mb-6 text-white font-display">
+                Türkiye'nin En İyi ve En Uygun Fiyatlı SMM Paneli
+            </h1>
+            <p class="text-sm md:text-base leading-6 text-white/90">
+                InstaHeist.store olarak, <b>Türkiye'nin en iyi ve en ucuz SMM paneli</b> hizmetlerini sunuyoruz. İster bireysel ister kurumsal olun, hızlı büyümek için en doğru adrestesiniz. Panelimiz, çevrimiçi görünürlüğünüzü kolayca artırmanıza yardımcı olacak güçlü araçlar sunar.
+            </p>
+
+        </div>
+        <div class="signin-form z-10">
+            <div class="bg-white text-gray-900 rounded-2xl shadow-lg p-8 w-full max-w-md mx-auto">
+                <div class="text-2xl font-bold mb-2">Hesabına Giriş Yap</div>
+<p class="text-sm text-gray-600 mb-6">
+    Türkiye'nin en uygun fiyatlı SMM panel hizmetlerinden yararlanmak için hesabına giriş yapabilirsin!
+</p>
+
+                <form  method="post" action="https://InstaHeist.com/">
+                                                            <div class="mb-4">
+                        <label class="block text-sm font-medium mb-1" for="username">Username</label>
+                        <input type="text" id="username" placeholder="User Name" name="LoginForm[username]" class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-sm font-medium mb-1" for="password">Password</label>
+                        <input type="password" id="password" placeholder="Enter your password" name="LoginForm[password]" class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]" />
+                    </div>
+                    <div class="flex items-center justify-between text-sm mb-6">
+                        <label class="inline-flex items-center space-x-2">
+                            <input type="checkbox" class="form-checkbox text-[#2A62FF]" name="LoginForm[remember]" value="1" id="remember" />
+                            <span>Remember me</span>
+                        </label>
+                                                    <a href="resetpassword.html" class="text-[#2A62FF] hover:underline">Forgot password?</a>
+                                            </div>
+                                        <div class="flex items-center justify-between mt-6 gap-4 flex-wrap">
+                        <input type="hidden" name="_csrf" value="DBtJbuSMyRFYPcu9-mg6XQFCZskRE-O1x6JqBla1fiVmVBEJ0uujSC5nncqoW3sedg0Fj3Vi0IeV4FJ1CcBTRg==">
+                        <button type="submit" class="bg-[#6366F1] btn-signup text-white font-medium py-2 px-6 rounded-full shadow flex items-center space-x-2">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.00057 7.99967C9.84152 7.99967 11.3339 6.50729 11.3339 4.66634C11.3339 2.82539 9.84152 1.33301 8.00057 1.33301C6.15962 1.33301 4.66724 2.82539 4.66724 4.66634C4.66724 6.50729 6.15962 7.99967 8.00057 7.99967Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <path d="M11.3328 9.33301H11.5675C12.0549 9.33315 12.5254 9.51125 12.8907 9.83386C13.2561 10.1565 13.491 10.6014 13.5515 11.085L13.8121 13.1677C13.8356 13.3553 13.8189 13.5458 13.7631 13.7264C13.7073 13.9071 13.6137 14.0738 13.4886 14.2155C13.3634 14.3573 13.2095 14.4708 13.0372 14.5485C12.8648 14.6262 12.6779 14.6664 12.4888 14.6663H3.51014C3.32106 14.6664 3.13413 14.6262 2.96177 14.5485C2.7894 14.4708 2.63554 14.3573 2.51039 14.2155C2.38524 14.0738 2.29166 13.9071 2.23587 13.7264C2.18009 13.5458 2.16336 13.3553 2.1868 13.1677L2.4468 11.085C2.50727 10.6012 2.74241 10.1561 3.10803 9.83342C3.47364 9.51078 3.94452 9.33282 4.43214 9.33301H4.66614" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                            <span>Sign in</span>
+                        </button>
+                                                <a href="signup.html" class="text-sm font-semibold text-[#1A1A40] whitespace-nowrap flex items-center gap-2">
+                            Sign up
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                            </svg>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mx-5 md:mx-10 py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] text-[#1A1A40] benefits">
+    <div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-12">
+            <div>
+                <span class="inline-block bg-white text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-2">FAYDALAR</span>
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">
+                    En Uygun Fiyatlı SMM Panel Türkiye
+                </h2>
+            </div>
+            <div>
+                <p class="text-gray-600 text-sm leading-6">
+                    <b>Ekonomik SMM Panel Türkiye hizmetleri</b> sunuyoruz. Ajanslar ve bireysel kullanıcılar, kolay kullanım ve 7/24 aktif destek için bizi tercih ediyor.
+                </p>
+            </div>
+        </div>
+        <!-- Cards Grid -->
+        <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Card 1 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/c7idbbu7rxxzfjrr.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/yecxjifd752uqtqn.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">En Ucuz SMM Panel</h3>
+                <p class="text-sm text-gray-600">Sadece $0.01’den başlayan fiyatlarla dijital büyümenizi başlatın. Küçük bütçeler için mükemmel seçim.</p>
+            </div>
+            <!-- Card 2 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/sw5aa5ygosdt2ndw.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/2n74td28x8fphzze.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Hızlı SMM Panel</h3>
+                <p class="text-sm text-gray-600">
+                    Siparişleriniz hızlıca tamamlanır. Gece veya gündüz beklemeden hizmet alın.
+                </p>
+            </div>
+            <!-- Card 3 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/3uklo0eyzk29i0ug.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/fmudlqboz936tmbz.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Kullanımı Kolay Panel</h3>
+                <p class="text-sm text-gray-600">
+                    Panelimiz basit ve sürekli güncellenir. Başlamak için ekstra bilgiye gerek yok.
+                </p>
+            </div>
+            <!-- Card 4 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/9zydc5e688t9x4yj.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/suw0inw25pyu4db5.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Anlık Fiyatlar ve Güncellemeler</h3>
+                <p class="text-sm text-gray-600">
+                    Tüm hizmetler ve fiyatlar sürekli yenilenir. SMM Panel Türkiye ile her zaman en iyi teklifleri yakalayın.
+                </p>
+            </div>
+            <!-- Card 5 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/s9d1ni2xdqxrf9l3.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Bayilik İçin SMM Panel</h3>
+                <p class="text-sm text-gray-600">
+                    Uygun fiyatlı ve güvenilir hizmetlerle kendi satış ağınızı kurmanıza destek oluyoruz.
+                </p>
+            </div>
+            <!-- Card 6 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/w9bktasgll2wqn37.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/82irppnynuknj1nx.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Yüksek Kaliteli SMM Panel</h3>
+                <p class="text-sm text-gray-600">
+                    Uygun fiyata en iyi hizmeti almak isteyenler için hazırlandı. Güvenilir ve kolay ulaşılır bir panel.
+                </p>
+            </div>
+            <!-- Card 7 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/79ybsy2zajd1k3up.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/qack3fjui3u2wi00.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Güvenli Ödeme Seçenekleri</h3>
+                <p class="text-sm text-gray-600">
+                    Kart, cüzdan ya da kripto ile kolayca ve güvenli ödeme yapabilirsiniz.
+                </p>
+            </div>
+            <!-- Card 8 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/kt2fdi4acwbd03lc.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/da7g7y860ib085zk.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Tüm İhtiyaçlar İçin Tek Panel</h3>
+                <p class="text-sm text-gray-600">
+                    Dijital büyüme için tüm araçlar tek yerde. Farklı platformlara ihtiyaç kalmadan her şey elinizin altında.
+                </p>
+            </div>
+            <!-- Card 9 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">7/24 Hızlı Destek</h3>
+                <p class="text-sm text-gray-600">
+                    Ekibimiz her zaman yanınızda. Sorularınız ve ihtiyaçlarınız için istediğiniz zaman bize ulaşabilirsiniz.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white overflow-hidden">
+    <div class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid lg:grid-cols-2 gap-12 items-center mb-16">
+            <div>
+                <span
+                    class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                    BİNLERCE KULLANICI TARAFINDAN SEÇİLDİ
+                </span>
+                <h2 class="text-3xl md:text-4xl font-bold leading-snug text-[#1A1A40]">
+                    Hızlı ve Güvenilir SMM Panel Turkey
+                </h2>
+            </div>
+            <div>
+                <p class="text-gray-600 text-sm leading-6 mb-6">
+                    <a href="https://InstaHeist.com/">SMM Panel</a> Turkey üzerinden her gün milyonlarca sipariş hızlı ve güvenli bir şekilde tamamlanıyor. 100.000'den fazla kullanıcı, uygun fiyatlar ve güçlü sistemimiz için bizi tercih ediyor. Herhangi bir sorunuz olduğunda, destek ekibimiz size hızlıca yardımcı oluyor. Büyümenizi kolay ve sorunsuz hale getirmek için buradayız.
+                </p>
+                <a href="signup.html"
+                    class="inline-flex items-center justify-center gap-2 bg-[#6366F1] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+                    Şimdi Kayıt Ol
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+
+        <div
+            class="rounded-[20px] bg-[rgba(220,221,235,0.7)] backdrop-blur-[7.5px] mt-16 sm:mt-20 p-6 sm:p-10 grid md:grid-cols-3 gap-6 text-center shadow-sm">
+            <!-- Card 1 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/9zn3h50j1bfqjo79.png" alt="Time" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">0.3 Saniye</h3>
+                <p class="text-sm text-gray-600">Her 0.3 saniyede bir yeni sipariş</p>
+            </div>
+            <!-- Card 2 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/imu8zq586rj2k86i.png" alt="Check" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">1358025+</h3>
+                <p class="text-sm text-gray-600">Tamamlanan Siparişler</p>
+            </div>
+            <!-- Card 3 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/4ez8jcc3kob9unsu.png" alt="Coin" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">$0.001/1K</h3>
+                <p class="text-sm text-gray-600">Başlangıç Fiyatı</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Questions and Answers Section -->
+<section class="py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white text-[#1A1A40]">
+    <div class="container mx-auto max-w-7xl px-4 grid lg:grid-cols-2 gap-12 items-start">
+        <!-- Left: Title -->
+        <div>
+            <span
+                class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                SIKÇA SORULAN SORULAR
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold leading-snug">
+                Sorularınız mı Var?<br>Buradan Başlayın
+            </h2>
+        </div>
+        <!-- Right: Accordions -->
+        <div x-data="{ open: 0 }" class="space-y-4">
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 1 ? open = 0 : open = 1" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>SMM Panel Turkey sistemine nasıl kayıt olabilirim?</h3>
+                    <span x-text="open === 1 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 1" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Kayıt olmak çok kolaydır. E-posta ve temel bilgilerinizle hızlıca üye olabilirsiniz. Hem bireysel hem de kurumsal kullanıcılar için uygundur.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 2 ? open = 0 : open = 2"
+                    class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Ödeme için kart veya PayPal kullanabilir miyim?</h3>
+                    <span x-text="open === 2 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 2" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Evet! Kart veya PayPal ile kolayca bakiye yükleyebilirsiniz. İşlemler hızlı ve güvenlidir.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 3 ? open = 0 : open = 3" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Sipariş vermek nasıl oluyor?</h3>
+                    <span x-text="open === 3 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 3" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    İstediğiniz hizmeti seçin, gerekli bilgileri girin ve siparişi verin. Gerisini biz hallediyoruz.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 4 ? open = 0 : open = 4"
+                    class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Bu panel ile nasıl para kazanabilirim?</h3>
+                    <span x-text="open === 4 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 4" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Aldığınız hizmetleri kendi fiyatınızla satabilir ve gelir elde edebilirsiniz. Birçok kullanıcı bu şekilde işini büyütüyor.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 5 ? open = 0 : open = 5" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Siparişler hızlı tamamlanıyor mu?</h3>
+                    <span x-text="open === 5 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 5" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Evet! Siparişler genellikle birkaç dakika içinde tamamlanır. Durumları panelinizden anlık olarak takip edebilirsiniz.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 6 ? open = 0 : open = 6" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Hedefli hizmetler sunuyor musunuz?</h3>
+                    <span x-text="open === 6 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 6" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Evet, konum ve ilgi alanına göre özel hizmetler sunuyoruz. Böylece daha etkili sonuçlar alabilirsiniz.
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Why choose us Section -->
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] overflow-hidden">
+    <!-- Right Vector Decoration -->
+    <img src="https://storage.perfectcdn.com/a9optm/a35pxyw9irnu07nl.png" alt="Vector Right"
+        class="absolute bottom-0 right-0 w-[200px] sm:w-[260px] pointer-events-none select-none z-0" />
+    <!-- Container -->
+    <div class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <!-- Header -->
+        <div class="text-center mb-12">
+            <span
+                class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                NEDEN BİZ?
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold text-[#1A1A40] mb-4">
+                Tek Panelde Tüm İhtiyacınız
+            </h2>
+            <p class="text-gray-600 text-sm max-w-2xl mx-auto leading-6">
+                SMM Panel Turkey ile her şey kolay. 7/24 destek, hızlı sipariş sistemi ve pratik panelimizle hizmet veriyoruz. En iyi fiyat ve yüksek kalite sunuyoruz.
+            </p>
+            <a href="signup.html"
+                class="inline-flex mt-6 items-center justify-center gap-2 bg-[#6366F1] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+                Hemen Kayıt Ol
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+            </a>
+        </div>
+        <!-- Feature Cards -->
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 text-center">
+            <!-- Card 1 -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <!-- <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Live Chat Icon" class="w-12 h-12 mb-4" /> -->
+                <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Live Chat Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">7/24 canlı destek ile her an yardım alın</h3>
+            </div>
+            <!-- Card 2 -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="Services Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Tek panelde tüm hizmetlere kolayca ulaşın</h3>
+            </div>
+            <!-- Card 3 -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/qs47b5966y9zxyg7.png" alt="Mass Order Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Toplu siparişleri birkaç tıklamayla oluşturun</h3>
+            </div>
+            <!-- Card 4 -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/xqs52mw7qnyqzcfw.png" alt="API Integration Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">API bağlantısı ile siparişlerinizi yönetin</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SMM Reseller Panel Section -->
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8" x-data="{ tab: 'reseller' }">
+        <div class="text-center mb-12">
+            <span
+                class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                SMM BAYİ PANELİ
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold text-[#1A1A40] mb-4">Türkiye'nin En Ucuz SMM Bayi Paneli</h2>
+            <p class="text-gray-600 text-sm max-w-2xl mx-auto">
+                Kendi panelinizi açmak ister misiniz? SMM Panel Turkey ile kendi markanızla hizmet satmaya hemen başlayabilirsiniz. Beyaz etiket sistemi ile dakikalar içinde aktif olun.
+            </p>
+        </div>
+        <div class="flex flex-wrap justify-center gap-3 mb-4 max-w-5xl mx-auto px-4">
+            <button @click="tab = 'reseller'" :class="{ 'bg-[#6366F1] text-white': tab === 'reseller', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'reseller' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                SMM Bayisi Nedir?
+            </button>
+            <button @click="tab = 'provider'" :class="{ 'bg-[#6366F1] text-white': tab === 'provider', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'provider' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                SMM Sağlayıcısı Kimdir?
+            </button>
+            <button @click="tab = 'child1'"
+                :class="{ 'bg-[#6366F1] text-white': tab === 'child1', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'child1' }"
+                class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                Çocuk Panel Nedir?
+            </button>
+        </div>
+        <div class="bg-[#F3F4F8] p-6 md:p-8 rounded-xl text-sm text-[#1A1A40] leading-6 w-full max-w-5xl mx-auto shadow-sm">
+            <div x-cloak x-show="tab === 'reseller'" x-transition>
+             <h4 class="font-semibold mb-2">Kendi markanızla hizmet satın</h4>
+              <p class="mb-4"><b>SMM bayi</b> hazır bir paneli kendi ismi ve logosu ile kullanan kişidir. Platform kurmakla uğraşmadan, sadece fiyatlarınızı belirleyip satış yapabilirsiniz. Bu sisteme beyaz etiket yöntemi denir.</p>
+              <h4 class="font-semibold mb-2">Hizmetleri siz yönetmezsiniz</h4>
+              <p class="mb-4">SMM Panel Turkey ile hizmetleri biz yönetiyoruz. Sipariş teslimatı, güncellemeler ve destek bizde. Siz sadece satış yapar ve müşterilerinize odaklanırsınız.</p>
+              <h4 class="font-semibold mb-2">Hızlı iş kurmak isteyenler için ideal</h4>
+              <p class="mb-4">Bireysel girişimciler ve ajanslar hızlıca iş kurabilir. Yazılım bilmenize ya da ekip kurmanıza gerek yok. Her şey hazırdır, hemen başlayabilirsiniz.</p>
+            </div>
+            <div x-cloak x-show="tab === 'provider'" x-transition>
+                <h4 class="font-semibold mb-2">Tüm hizmetlerin kaynağı</h4>
+              <p class="mb-4"><b>SMM sağlayıcı</b> tüm sistemin arkasında çalışan firmadır. SMM Panel Turkey olarak biz tüm süreci yönetir ve bayilere hizmet sunarız.</p>
+              <h4 class="font-semibold mb-2">Hazır ve kullanıma açık</h4>
+              <p class="mb-4">Sunucular, güncellemeler ve hizmetler tarafımızdan yönetilir. Siz sadece panele bağlanıp hizmet satarsınız, başka bir iş yükünüz olmaz.</p>
+              <h4 class="font-semibold mb-2">Dünya çapında güvenilir</h4>
+              <p class="mb-4">Binlerce bayi her gün panelimizi kullanıyor. Hızlı destek, anlık güncellemeler ve kullanımı kolay bir yönetim paneli sunuyoruz.</p>
+            </div>
+            <div x-cloak x-show="tab === 'child1'" x-transition>
+                <h4 class="font-semibold mb-2">Kendi adınıza bir panel</h4>
+              <p class="mb-4"><b>Çocuk panel</b> bizim sistemimiz üzerinde çalışan, tamamen sizin markanıza ait bir paneldir. Kendi domain, logo ve fiyatlarınızla müşterilerinize sunarsınız.</p>
+              <h4 class="font-semibold mb-2">Ana sistem tarafından desteklenir</h4>
+              <p class="mb-4">Panel sizin gibi görünür ama teknik altyapı bizde çalışır. Hız, güvenlik ve hizmet yönetimi bizim tarafımızdan sağlanır.</p> 
+              <h4 class="font-semibold mb-2">Kolay yönetim ve büyüme</h4>
+              <p class="mb-4">Tüm siparişleri, müşterileri ve işlerinizi yönetebileceğiniz bir panel sunuyoruz. Kodlama gerekmez, ekstra kurulum gerekmez. Hemen kullanıma başlayabilirsiniz.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Steps Desktop Version Section -->
+<section class="hidden lg:block py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 bg-[#f7f7fb] text-[#1A1A40]">
+    <div class="container mx-auto max-w-6xl px-4">
+        <div class="text-center mb-12">
+            <span class="inline-block bg-[#E3DFFE] text-xs font-semibold text-[#6E61E7] px-4 py-1 rounded-full mb-4">
+                NASIL ÇALIŞIR
+            </span>
+            <h2 class="text-3xl sm:text-4xl font-bold mb-2">SMM Panel Turkey Nasıl Çalışır?</h2>
+            <p class="text-gray-500 text-base max-w-2xl mx-auto">
+                SMM Panel Turkey ile başlamak çok kolay. Karmaşık bir bilgiye ihtiyaç yok. Adımları takip edin ve internet üzerindeki etkili varlığınızı büyütün.
+            </p>
+        </div>
+        <div class="bg-white rounded-[20px] p-8 shadow-sm">
+            <div class="grid md:grid-cols-2 gap-12 items-start relative">
+                <!-- Vertical Line -->
+                <div class="absolute top-0 left-1/2 transform -translate-x-1/2 h-full w-[2px] bg-[#6E61E7] z-0"></div>
+                <!-- Step 1 -->
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">1. Hesabınızı Oluşturun</h3>
+                    <p class="text-gray-600 mb-4">
+                        Sadece birkaç saniyede e-posta adresinizle kayıt olun. Size özel panelden tüm hizmetleri görebilir ve siparişlerinizi kolayca takip edebilirsiniz.
+                    </p>
+                    <a href="signup.html" class="bg-[#6E61E7] text-white font-semibold rounded-full px-6 py-2 mb-6">
+                        Hemen Kayıt Ol →
+                    </a>
+                    <img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Kayıt Formu" class="rounded-lg mt-[15px]">
+                </div>
+                <!-- Step 2 -->
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">2. Bakiye Yükleyin</h3>
+                    <p class="text-gray-600 mb-4">
+                        Size en uygun ödeme yöntemini seçin ve bakiyenizi kolayca yükleyin. İşlem hızlı ve güvenlidir.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Ödemeler" class="rounded-lg">
+                </div>
+                <!-- Step 3 -->
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">3. Sipariş Verin</h3>
+                    <p class="text-gray-600 mb-4">
+                        İstediğiniz hizmeti seçin, bilgileri girin ve siparişinizi onaylayın. İşlem basit ve nettir.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="Yeni Sipariş Formu" class="rounded-lg">
+                </div>
+                <!-- Step 4 -->
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">4. Sonuçları İzleyin</h3>
+                    <p class="text-gray-600 mb-4">
+                        Arkanıza yaslanın ve sonuçların tadını çıkarın. Siparişiniz hızlıca teslim edilir ve gelişiminizi görmeye başlarsınız.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="Keyfini Çıkarın" class="rounded-lg">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Steps Mobile Version Section -->
+<section class="block lg:hidden bg-[#f7f7fb] py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8">
+    <div class="container mx-auto max-w-2xl px-4 relative">
+        <h2 class="text-center text-[#1A1A40] font-bold text-3xl mb-4">SMM Panel Turkey Nasıl Çalışır?</h2>
+        <p class="text-center text-gray-600 max-w-xl mx-auto mb-12">
+            SMM Panel Turkey kullanmaya başlamak çok kolaydır. Herkes birkaç adımda hizmetlerden yararlanabilir ve internet üzerinde daha güçlü olabilir.
+        </p>
+        <!-- Timeline line center mobile -->
+        <div class="absolute top-[30rem] bottom-14 left-1/2 transform -translate-x-1/2 w-[2px] bg-[#6E61E7] z-0"></div>
+        <div class="space-y-16 relative z-10">
+            <!-- Step 1 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">1. Hesabınızı Oluşturun</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    E-posta adresinizi kullanarak birkaç saniyede kayıt olun. Tüm hizmetleri ve siparişlerinizi panel üzerinden görüntüleyin.
+                </p>
+                <div class="text-center">
+                    <button class="bg-[#6E61E7] text-white px-6 py-2 rounded-full font-semibold">Hemen Kayıt Ol →</button>
+                </div>
+                <img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Kayıt Formu" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 2 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">2. Bakiye Yükleyin</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    Uygun ödeme yöntemini seçin ve hesabınıza kolayca para ekleyin. İşlem güvenli ve hızlıdır.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Ödemeler" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 3 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">3. Sipariş Verin</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    İstediğiniz hizmeti belirleyin, bilgileri doldurun ve siparişinizi tamamlayın. Adımlar kolay ve anlaşılırdır.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="Yeni Sipariş" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 4 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">4. Sonuçları İzleyin</h3>
+                <p class="text-gray-600 text-center mb-4">
+                   Siparişiniz hızlıca tamamlanır. Gelişimi rahatlıkla izleyebilirsiniz ve internet üzerindeki etkinliğiniz artar.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="Keyifli Sonuçlar" class="rounded-lg mt-6 mx-auto">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SMM Panel Service FAQ Section-->
+<section class="py-20 bg-white text-[#1A1A40]" x-data="{ activeTab: 0 }">
+    <div class="container mx-auto max-w-7xl px-4">
+        <div class="text-center lg:text-left mb-12 lg:mb-16">
+            <span
+                class="inline-block bg-[#E3DFFE] text-xs font-semibold text-[#6E61E7] px-4 py-1 rounded-full mb-4">
+                HİZMETLER
+            </span>
+            <h2 class="text-3xl sm:text-4xl font-bold mb-2">Hızlı ve Uygun Fiyatlı SMM Panel Türkiye<br> Hizmetleri</h2>
+            <p class="text-gray-500 text-base max-w-2xl mx-auto lg:mx-0">
+                SMM Panel Turkey ile tüm dijital hizmetleri tek bir yerde topluyoruz. Uygun fiyatlarla kolayca hizmet alabilirsiniz. İşlemler hızlı, basit ve herkes için uygundur. İster kendi hesaplarınızı büyütün, ister başkalarına hizmet sunun, ihtiyacınız olan her şeye burada ulaşabilirsiniz. Ekstra adımlar yok, karışıklık yok.
+         </p>
+          
+        </div>
+        <div class="grid lg:grid-cols-2 gap-8">
+            <!-- Tabs -->
+            <div class="space-y-4">
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 0 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 0">Gerçek Büyüme İçin Ucuz SMM Panel</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 1 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 1">Binlerce Kişinin Tercih Ettiği Panel</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 2 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 2">İnternette Daha Fazla Kişiye Ulaşın</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 3 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 3">Kullanımı Kolay Temiz Panel</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 4 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 4">Hızlı Teslimatlı SMM Panel</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 5 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 5">Güvenilir ve Başarılı Hizmetler</button>
+            </div>
+            <!-- Content -->
+            <div
+                class="bg-[#f7f7fb] p-6 lg:p-8 rounded-[20px] shadow-sm max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-[#6E61E7] scrollbar-track-[#f1f1f9]">
+                <div x-cloak x-show="activeTab === 0">
+                  <h4 class="font-bold mb-4">En Uygun Fiyatlar ve Gerçek Sonuçlar</h4>
+                  <p class="mb-4">Hizmetlerimiz sadece 0,01$'dan başlıyor. Küçük bütçeyle bile kaliteli hizmet alabilirsiniz. Düşük fiyatla yüksek kalite sunuyoruz.</p>
+                  <h4 class="font-bold mb-4">Herkes İçin Tasarlandı</h4>
+                  <p class="mb-4">SMM Panel Turkey, yeni başlayanlar, ajanslar ve satıcılar için uygundur. Hedefinize hızlı ve ekonomik şekilde ulaşabilirsiniz.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 1">
+                    <h4 class="font-bold mb-4">Dünyanın Her Yerinden Kullanıcılar</h4>
+                 <p class="mb-4">Amerika, Avrupa, Asya ve daha birçok yerden kullanıcılar her gün SMM Panel Turkey hizmetlerinden yararlanıyor. Binlerce kişi bize güveniyor.</p>
+                  <h4 class="font-bold mb-4">Güvenli ve Sağlam Hizmetler</h4>
+                 <p class="mb-4">Hizmetlerimiz sürekli test edilir ve güncellenir. Gerçek sonuçlar için güvenli çözümler sunuyoruz. Kullanıcılarımız memnuniyet
+
+<!-- Newsletter Section -->
+<section class="mx-5 md:mx-10 py-20 bg-gradient-to-r from-[#4D61E7] to-[#6E61E7] text-white newsletter relative overflow-hidden mb-8">
+    <!-- Left Bottom Decoration -->
+    <img src="https://storage.perfectcdn.com/a9optm/ss0tioi4rksfh77t.png" alt=""
+        class="absolute bottom-[0px] left-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+    <!-- Right Top Decoration -->
+    <img src="https://storage.perfectcdn.com/a9optm/jzaek7axl0p31p1p.png" alt=""
+        class="absolute top-[0px] right-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+    <div class="container mx-auto px-4 max-w-7xl">
+        <div class="grid md:grid-cols-2 items-center gap-10">
+            <!-- Left -->
+            <div>
+                <button class="bg-white text-[#6E61E7] text-xs font-bold px-4 py-2 rounded-full mb-4 shadow-md">
+                    SUBSCRIBE
+                </button>
+                <h2 class="text-3xl font-bold leading-snug mb-4">Get the latest SMM<br>Panel Server updates</h2>
+                <p class="text-sm text-white/80 max-w-md">
+                    Get updates on the latest social media marketing, popular services and all the tips & tricks to
+                    keep your business powerful.
+                </p>
+            </div>
+            <!-- Right -->
+            <div>
+                <form class="bg-white p-[5px] rounded-full flex items-center justify-between w-full max-w-xl">
+                    <input type="email" placeholder="Enter your email address"
+                        class="bg-white text-[#1A1A40] placeholder:text-gray-400 px-5 py-3 rounded-full w-full focus:outline-none">
+                    <button type="submit"
+                        class="bg-[#6E61E7] hover:bg-[#5c50c4] text-white text-sm font-semibold px-6 py-3 rounded-full ml-2">
+                        Subscribe
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+			<!-- footer -->
+            <footer class="bg-[#1A1A40] text-white py-16 text-sm">
+                <div class="container mx-auto max-w-7xl px-4 grid md:grid-cols-1">
+                    <!-- Column 1: Logo & Description -->
+                    <div>
+                        <img src="https://storage.perfectcdn.com/a9optm/17tlr8tbgy4qaqi4.png" alt="InstaHeist ZA" class="h-10 mb-4" width="215" height="58" loading="lazy">
+                        <p class="text-white/80 leading-6">
+                            InstaHeist ZA is your trusted provider for social media marketing tools.
+                            Affordable, fast, and powerful. Grow your business with ease.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Bottom bar -->
+                <div class="text-center mt-12 border-t border-white/10 pt-6 text-white/50 text-xs">
+                    © 2025 InstaHeist ZA. All rights reserved.
+                </div>
+            </footer>
+		
+		<!-- Notifications wrapper -->
+		<div id="notify-wrapper" class="alert alert-success hidden" style="display: none;"></div>
+		<div id="copy-toast" class="fixed top-10 right-5 bg-gray-800 text-white text-sm px-4 py-2 rounded-lg shadow-lg opacity-0 transition-opacity duration-300 z-50 pointer-events-none">
+			Copied to clipboard!
+		</div>
+
+    	
+		<!-- Bonus Modal -->
+                <div x-data="bonusModal" x-init="init()" x-cloak x-show="showBonus" class="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60">
+                        <div @click.away="hide()" class="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 relative overflow-hidden">
+
+				<!-- Close button -->
+                                <button @click="hide()" class="absolute top-4 right-4 text-gray-400 hover:text-red-500 text-xl font-bold">&times;</button>
+
+				<!-- Header -->
+				<div class="text-center">
+					<h3 class="text-lg font-semibold text-indigo-500 tracking-wide uppercase">Exclusive Bonus</h3>
+					<h2 class="text-3xl font-extrabold text-gray-800 mt-2">Claim <span class="text-yellow-500" x-text="bonus_percent + '% Bonus'"></span> Now!</h2>
+				</div>
+
+				<div class="relative my-6">
+					<div class="flex overflow-hidden relative">
+
+						<!-- Left Side -->
+						<div class="relative bg-gradient-to-r from-red-500 to-yellow-400 text-white w-80 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-sm uppercase tracking-widest font-semibold">Up To</span>
+							<span class="text-5xl font-extrabold leading-none" x-text="bonus_percent">20</span>
+
+							<!-- Top Left -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Left -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Right Top -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Right Bottom -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+						</div>
+
+						<!-- Right Side -->
+						<div class="relative bg-gradient-to-r from-sky-400 to-indigo-500 text-black w-1/3 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-5xl font-extrabold leading-none">%</span>
+							<span class="text-sm uppercase tracking-widest font-semibold">Off</span>
+
+							<!-- Top Right -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Right -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Left Top -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Left Bottom -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+						</div>
+					</div>
+				</div>
+
+
+
+				<!-- Footer -->
+				<div class="text-center mt-4">
+				<p class="text-sm text-gray-500">Valid until <strong x-text="valid_until_date + ' - ' + valid_until_time"></strong> <strong>GMT</strong></p>
+				</div>
+
+				<!-- CTA Button -->
+				<div class="mt-6 text-center">
+                                        <button @click="hide()" class="w-full px-5 py-2 rounded-xl bg-gradient-to-r from-sky-400 to-indigo-500 text-white font-semibold shadow hover:scale-105 transition transform duration-300">
+                                                Got It!
+                                        </button>
+				</div>
+
+			</div>
+		</div>
+      
+          
+                <!-- Back to Top Button -->
+                <button id="backToTop" aria-label="Back to top" class="hidden fixed bottom-6 right-6 z-40 p-3 rounded-full bg-[#4f46e5] text-white shadow-lg">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
+                        </svg>
+                </button>
+      
+		
+
+
+
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/libs/jquery/1.12.4/jquery.min.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/xx1pjazll6rkdn33.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/02ou42xtpx6boaea.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/7gunsx8o4lyb4y43.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/rnkzhgwcy0rf9dks.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/p8q3pyeo3xt5wxu7.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/lyswysyd3tpc7x3p.js"  >
+							</script>
+					<script type="text/javascript"  >
+				                    window.modules.layouts = {"theme_id":1,"auth":0,"live":true,"csrftoken":"DBtJbuSMyRFYPcu9-mg6XQFCZskRE-O1x6JqBla1fiVmVBEJ0uujSC5nncqoW3sedg0Fj3Vi0IeV4FJ1CcBTRg=="};
+                			</script>
+					<script type="text/javascript"  >
+							</script>
+		    <script>
+        window.userData = {
+            username: '',
+            balance: parseFloat(''),
+            id: '',
+            hasError: false
+        };
+    </script>
+
+	</body>
+</html>

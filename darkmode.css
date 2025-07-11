@@ -1,0 +1,11 @@
+body {
+  background-color: #0d0d0d;
+  color: #f0f0f0;
+}
+a, h1, h2, h3, h4, h5, h6 {
+  color: #bb86fc;
+}
+.navbar, .footer, .card, .panel {
+  background-color: #1a1a1a !important;
+  border-color: #333 !important;
+}

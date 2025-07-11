@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+<link rel="stylesheet" href="darkmode.css">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>African SMM Panel – Reliable & Easy SMM Services</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="Find trusted SMM services for Africa with fast results and low prices.">
+      	<meta name="google-site-verification" content="0Efi9cNqCWr4n9l-2Pu5bkajIb8TvBAsS6KU9hVaX1A" />
+
+					<link rel="shortcut icon" type="image/ico" href="https://storage.perfectcdn.com/a9optm/6lrdlgj7bp5ru0yg.ico"/>
+				<link rel="canonical" href="https://InstaHeist.com/african-smm-panel" /><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PHDSBVMMF8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PHDSBVMMF8');
+</script>
+
+
+<meta name="heleket" content="05b52c3b" />
+
+<script src="https://browser.sentry-cdn.com/9.12.0/bundle.min.js" crossorigin="anonymous"></script>
+
+<script>Sentry.init({ dsn: 'https://294a44a1147a468c88270ee2dd6ecde9@sentry.io/4504813329711104' });</script>
+
+
+
+									<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/ty7d7m6ibnt12o58.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/a9optm/kyrwbf3efnq1yr0f.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/libs/bootstrap-datetimepicker/4.17.47/bootstrap-datetimepicker.min.css">
+																	<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/i76bg9kfcu5px52e.css">
+												<link rel="stylesheet" type="text/css" href="https://storage.perfectcdn.com/global/0cppkyps8we2szqc.css">
+					
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"></noscript>
+		
+        <!-- Tailwind CSS CDN -->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <!-- 🧠 Add AlpineJS -->
+		<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js" defer></script>
+
+		<script>
+			window.modules = {};
+		</script>
+
+	</head>
+	<body>
+					<!-- Header -->
+			<header class="bg-[#D7D8DD] text-[#1A1A40] py-4 px-4 md:px-8 header mx-5 mt-5 md:mx-10 rounded-[20px]">
+				<div class="container mx-auto px-0 flex items-center justify-between relative">
+					<!-- Logo -->
+					<a class="flex items-center space-x-2" href="index.html">
+                                                    <img src="https://storage.perfectcdn.com/a9optm/fmxqjo2ibuxp2bof.png" alt="InstaHeist.com" title="InstaHeist ZA" alt="InstaHeist.com" width="150" height="40">
+                        					
+					</a>
+
+					<!-- Navigation -->
+					<nav class="hidden md:flex items-center space-x-6 text-sm text-gray-500">
+                        							<a href="index.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Sign in
+							</a>
+													<a href="terms.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Terms
+							</a>
+													<a href="privacy-policy.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																Privacy Policy
+							</a>
+													<a href="contact.html"    class="text-[#1A1A40] hover:text-[#2A62FF] " >
+																contact
+							</a>
+											</nav>
+
+					<!-- Sign Up Button -->
+					<div class=" md:flex">
+						<a href="signup.html" class="inline-flex items-center justify-center px-4 py-2 min-w-[100px] rounded-full bg-[#4f46e5] text-white text-sm font-medium shadow hover:bg-[#4338ca] transition space-x-1">
+							<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+								<circle cx="8.5" cy="7" r="4" />
+							</svg>
+							<span>Sign Up</span>
+						</a>
+					</div>
+
+					<!-- Toggle btn (Mobile only) -->
+					<div class="md:hidden">
+						<button id="menu-toggle" class="text-gray-800 focus:outline-none" aria-label="Toggle menu">
+							<svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M4 6h16M4 12h16M4 18h16"></path>
+							</svg>
+						</button>
+					</div>
+				</div>
+				<!-- Mobile Fullscreen Menu -->
+				<div id="menu-overlay" class="fixed inset-0 bg-black bg-opacity-30 z-40 hidden"></div>
+			</header>
+			<nav id="mobile-menu" class="fixed inset-0 bg-white z-50 flex flex-col items-start justify-start px-6 py-6 space-y-6 transform -translate-y-full transition-transform duration-300 ease-in-out">
+				<!-- Close Button -->
+				<button id="menu-close" class="absolute top-4 right-4 text-gray-700 text-2xl">
+					&times;
+				</button>
+				<!-- Menu Links -->
+                					<a href="index.html"    class="text-lg font-medium  text-gray-800 " >
+												Sign in
+					</a>
+									<a href="terms.html"    class="text-lg font-medium  text-gray-800 " >
+												Terms
+					</a>
+									<a href="privacy-policy.html"    class="text-lg font-medium  text-gray-800 " >
+												Privacy Policy
+					</a>
+									<a href="contact.html"    class="text-lg font-medium  text-gray-800 " >
+												contact
+					</a>
+							</nav>
+
+			<!-- Main variables *content* -->
+			<section class="mx-5 md:mx-10 py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 relative bg-gradient-to-r bg-gradient-to-r hero text-white rounded-b-[30px]">
+    <!-- <img src="https://storage.perfectcdn.com/abgd2z/73ipl84kgl5gri5i.svg" alt="" class="absolute top-[-1px] left-[-1px] w-50 pointer-events-none select-none" loading="lazy"> -->
+    <!-- <img src="https://storage.perfectcdn.com/abgd2z/hiq9qz685fgf54x1.svg" alt="" class="absolute bottom-[1px] right-[1px] w-50 pointer-events-none select-none" loading="lazy"> -->
+    <div class="container mx-auto px-0 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div class="z-10">
+            <div class="mb-4">
+    <span class="inline-block bg-white text-[#2A62FF] font-semibold text-xs px-4 py-1 rounded-full relative z-10 -mt-3 sm:-mt-4 ml-2 sm:ml-4">Top SMM Services for Africa</span>
+</div>
+<h1 class="text-4xl md:text-5xl font-bold leading-tight mb-6 text-white font-display">
+    Best and Cheapest African SMM Panel Services
+</h1>
+<p class="text-sm md:text-base leading-6 text-white/90">
+    InstaHeist.store brings you the <b>best and low-cost SMM panel</b> designed for African countries. Our services help businesses and individuals grow their online activity faster. With easy tools and strong support, we make it simple to manage and improve your online goals across Africa.
+</p>
+
+        </div>
+        <div class="signin-form z-10">
+            <div class="bg-white text-gray-900 rounded-2xl shadow-lg p-8 w-full max-w-md mx-auto">
+                <div class="text-2xl font-bold mb-2">Access Your African SMM Panel</div>
+<p class="text-sm text-gray-600 mb-6">
+    Manage all your SMM needs easily by signing into your account. Fast and affordable services for every African country.
+</p>
+
+                <form  method="post" action="https://InstaHeist.com/">
+                                                            <div class="mb-4">
+                        <label class="block text-sm font-medium mb-1" for="username">Username</label>
+                        <input type="text" id="username" placeholder="User Name" name="LoginForm[username]" class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]" />
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-sm font-medium mb-1" for="password">Password</label>
+                        <input type="password" id="password" placeholder="Enter your password" name="LoginForm[password]" class="w-full px-4 py-3 border border-[#D3D3E2] text-sm rounded-[10px] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#2A62FF]" />
+                    </div>
+                    <div class="flex items-center justify-between text-sm mb-6">
+                        <label class="inline-flex items-center space-x-2">
+                            <input type="checkbox" class="form-checkbox text-[#2A62FF]" name="LoginForm[remember]" value="1" id="remember" />
+                            <span>Remember me</span>
+                        </label>
+                                                    <a href="resetpassword.html" class="text-[#2A62FF] hover:underline">Forgot password?</a>
+                                            </div>
+                                        <div class="flex items-center justify-between mt-6 gap-4 flex-wrap">
+                        <input type="hidden" name="_csrf" value="-YGE3jcaU1B-Yea-G_6V3OLKH6VkQ6WVMI8Su0_QvqCTzty5AX05CQg7sMlJzdSflYV84wAylqdizSrIEKWTww==">
+                        <button type="submit" class="bg-[#6366F1] btn-signup text-white font-medium py-2 px-6 rounded-full shadow flex items-center space-x-2">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.00057 7.99967C9.84152 7.99967 11.3339 6.50729 11.3339 4.66634C11.3339 2.82539 9.84152 1.33301 8.00057 1.33301C6.15962 1.33301 4.66724 2.82539 4.66724 4.66634C4.66724 6.50729 6.15962 7.99967 8.00057 7.99967Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <path d="M11.3328 9.33301H11.5675C12.0549 9.33315 12.5254 9.51125 12.8907 9.83386C13.2561 10.1565 13.491 10.6014 13.5515 11.085L13.8121 13.1677C13.8356 13.3553 13.8189 13.5458 13.7631 13.7264C13.7073 13.9071 13.6137 14.0738 13.4886 14.2155C13.3634 14.3573 13.2095 14.4708 13.0372 14.5485C12.8648 14.6262 12.6779 14.6664 12.4888 14.6663H3.51014C3.32106 14.6664 3.13413 14.6262 2.96177 14.5485C2.7894 14.4708 2.63554 14.3573 2.51039 14.2155C2.38524 14.0738 2.29166 13.9071 2.23587 13.7264C2.18009 13.5458 2.16336 13.3553 2.1868 13.1677L2.4468 11.085C2.50727 10.6012 2.74241 10.1561 3.10803 9.83342C3.47364 9.51078 3.94452 9.33282 4.43214 9.33301H4.66614" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                            <span>Sign in</span>
+                        </button>
+                                                <a href="signup.html" class="text-sm font-semibold text-[#1A1A40] whitespace-nowrap flex items-center gap-2">
+                            Sign up
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                            </svg>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mx-5 md:mx-10 py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] text-[#1A1A40] benefits">
+    <div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-12">
+            <div>
+                <span class="inline-block bg-white text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-2">BENEFITS</span>
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">
+                    Find the Best and Cheapest African SMM Panel
+                </h2>
+            </div>
+            <div>
+                <p class="text-gray-600 text-sm leading-6">
+                   Our <b>African SMM Panel</b> brings affordable services for individuals, businesses, and agencies across African countries. Easy to use and open all day.
+                </p>
+            </div>
+        </div>
+        <!-- Cards Grid -->
+        <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Card 1 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/c7idbbu7rxxzfjrr.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/yecxjifd752uqtqn.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Most Affordable SMM Panel</h3>
+                <p class="text-sm text-gray-600">Use top services from just $0.01. A smart choice to build your digital growth without spending much.</p>
+            </div>
+            <!-- Card 2 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/sw5aa5ygosdt2ndw.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/2n74td28x8fphzze.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Fast and Reliable Service</h3>
+                <p class="text-sm text-gray-600">
+                    Orders are completed quickly. Enjoy smooth and fast results every time you need.
+                </p>
+            </div>
+            <!-- Card 3 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/3uklo0eyzk29i0ug.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/fmudlqboz936tmbz.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Easy-to-Use Platform</h3>
+                <p class="text-sm text-gray-600">
+                    Simple and clear dashboard. No need for special skills. Anyone can start easily.
+                </p>
+            </div>
+            <!-- Card 4 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/9zydc5e688t9x4yj.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/suw0inw25pyu4db5.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Live Offers and Updates</h3>
+                <p class="text-sm text-gray-600">
+                    Prices and services are always fresh. Get the newest offers without waiting.
+                </p>
+            </div>
+            <!-- Card 5 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/s9d1ni2xdqxrf9l3.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Panel for Resellers</h3>
+                <p class="text-sm text-gray-600">
+                    Resell trusted African SMM services. Grow your own business with strong and affordable tools.
+                </p>
+            </div>
+            <!-- Card 6 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/w9bktasgll2wqn37.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/82irppnynuknj1nx.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Top Quality Services</h3>
+                <p class="text-sm text-gray-600">
+                    Get the best quality for your growth at low prices. Trusted by many across Africa.
+                </p>
+            </div>
+            <!-- Card 7 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/79ybsy2zajd1k3up.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/qack3fjui3u2wi00.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Safe and Easy Payments</h3>
+                <p class="text-sm text-gray-600">
+                    Pay with cards, online wallets, or crypto. Simple, secure, and always protected.
+                </p>
+            </div>
+            <!-- Card 8 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/abgd2z/kt2fdi4acwbd03lc.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/da7g7y860ib085zk.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Complete Digital Services</h3>
+                <p class="text-sm text-gray-600">
+                    Everything you need in one place. No need to use many platforms for your growth.
+                </p>
+            </div>
+            <!-- Card 9 -->
+            <div class="bg-white p-6 rounded-2xl shadow-md">
+                <!-- <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy"> -->
+                <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="" class="mb-4 w-[70px] h-[70px]" loading="lazy">
+                <h3 class="font-semibold text-lg mb-1">Help Available Anytime</h3>
+                <p class="text-sm text-gray-600">
+                    Our team is here 24/7. Get answers or help any time you need.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white overflow-hidden">
+    <div class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="grid lg:grid-cols-2 gap-12 items-center mb-16">
+            <div>
+                <span class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                    TRUSTED BY THOUSANDS
+                </span>
+                <h2 class="text-3xl md:text-4xl font-bold leading-snug text-[#1A1A40]">
+                    Fast African SMM Panel for Easy Growth
+                </h2>
+            </div>
+            <div>
+                <p class="text-gray-600 text-sm leading-6 mb-6">
+                    Our African <a href="https://InstaHeist.com/">SMM Panel</a> helps users from every corner of Africa to boost their online presence with the best services at small prices. Thousands of businesses, brands, and agencies trust us for our fast deliveries, friendly team, and easy platform. Building your success is simple with our powerful services made for African markets.
+                </p>
+                <a href="signup.html"
+                    class="inline-flex items-center justify-center gap-2 bg-[#6366F1] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+                    Sign Up Now
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+
+        <div class="rounded-[20px] bg-[rgba(220,221,235,0.7)] backdrop-blur-[7.5px] mt-16 sm:mt-20 p-6 sm:p-10 grid md:grid-cols-3 gap-6 text-center shadow-sm">
+            <!-- Card 1 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/9zn3h50j1bfqjo79.png" alt="Time" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">0.3Sec</h3>
+                <p class="text-sm text-gray-600">New Order Placed</p>
+            </div>
+            <!-- Card 2 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/imu8zq586rj2k86i.png" alt="Check" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">1358025+</h3>
+                <p class="text-sm text-gray-600">Orders Handled</p>
+            </div>
+            <!-- Card 3 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm flex flex-col items-center text-center">
+                <img src="https://storage.perfectcdn.com/a9optm/4ez8jcc3kob9unsu.png" alt="Coin" class="w-12 h-12 mb-4 mx-auto">
+                <h3 class="text-xl font-bold text-[#1A1A40]">$0.001/1K</h3>
+                <p class="text-sm text-gray-600">Starting Cost</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Questions and Answers Section -->
+<section class="py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white text-[#1A1A40]">
+    <div class="container mx-auto max-w-7xl px-4 grid lg:grid-cols-2 gap-12 items-start">
+        <!-- Left: Title -->
+        <div>
+            <span class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                QUICK FAQ
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold leading-snug">
+                Questions? Find Your Answer
+            </h2>
+        </div>
+        <!-- Right: Accordions -->
+        <div x-data="{ open: 0 }" class="space-y-4">
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 1 ? open = 0 : open = 1" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>How to create an account?</h3>
+                    <span x-text="open === 1 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 1" x-t class="px-4 pb-4 text-sm text-gray-600">
+                    It takes only a few minutes. Just fill in your email and basic info. You are ready to start using the panel after that.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 2 ? open = 0 : open = 2"
+                    class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Which payments are accepted?</h3>
+                    <span x-text="open === 2 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 2" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    You can add money easily with PayPal, bank cards, and other simple methods. Everything is quick and safe.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 3 ? open = 0 : open = 3" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>How to place my first order?</h3>
+                    <span x-text="open === 3 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 3" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Pick the service you need, write the details, and confirm. The system will start working on it right away.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 4 ? open = 0 : open = 4"
+                    class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Can I make money with this panel?</h3>
+                    <span x-text="open === 4 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 4" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Many users buy services here and sell them at a better price. It’s a smart way to build a business without big costs.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 5 ? open = 0 : open = 5" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Are the services delivered fast?</h3>
+                    <span x-text="open === 5 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 5" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Most services start just a few minutes after you order. You can also track your progress anytime in your account.
+                </div>
+            </div>
+            <div class="bg-[#F1F2F6] rounded-md overflow-hidden">
+                <button @click="open === 6 ? open = 0 : open = 6" class="w-full flex justify-between items-center px-4 py-3 font-medium focus:outline-none">
+                    <h3>Can I target specific countries?</h3>
+                    <span x-text="open === 6 ? '−' : '+'"></span>
+                </button>
+                <div x-cloak x-show="open === 6" x-transition class="px-4 pb-4 text-sm text-gray-600">
+                    Yes! You can choose services focused on African countries or any region you prefer for better results.
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Why choose us Section -->
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-[#F7F7FB] overflow-hidden">
+    <img src="https://storage.perfectcdn.com/a9optm/a35pxyw9irnu07nl.png" alt="Vector Right"
+        class="absolute bottom-0 right-0 w-[200px] sm:w-[260px] pointer-events-none select-none z-0" />
+    <div class="relative z-10 container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-12">
+            <span
+                class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                WHY US
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold text-[#1A1A40] mb-4">
+                African SMM Panel with All You Need
+            </h2>
+            <p class="text-gray-600 text-sm max-w-2xl mx-auto leading-6">
+                Get the best African SMM panel with fast support, easy-to-use tools, and full control through API. Many users in Africa trust our service for quality work at low prices.
+            </p>
+            <a href="signup.html"
+                class="inline-flex mt-6 items-center justify-center gap-2 bg-[#6366F1] text-white text-sm font-medium px-6 py-3 rounded-full hover:bg-[#4f52c1] transition">
+                Sign Up Now
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+            </a>
+        </div>
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 text-center">
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <!-- <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Live Chat Icon" class="w-12 h-12 mb-4" /> -->
+                <img src="https://storage.perfectcdn.com/a9optm/89mi92xq3wwk2pcm.png" alt="Live Chat Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Help is ready for you 24/7 through live chat</h3>
+            </div>
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/zw35btpdgn66l6hf.png" alt="Services Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Find all services easily in one simple place</h3>
+            </div>
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/qs47b5966y9zxyg7.png" alt="Mass Order Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Send many orders quickly with a few clicks</h3>
+            </div>
+            <div class="bg-white p-6 rounded-2xl shadow-sm flex flex-col items-center">
+                <img src="https://storage.perfectcdn.com/a9optm/xqs52mw7qnyqzcfw.png" alt="API Integration Icon" class="w-12 h-12 mb-4" />
+                <h3 class="text-sm font-semibold text-[#1A1A40]">Use our API to manage your work automatically</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SMM Reseller Panel Section -->
+<section class="relative py-20 sm:py-20 px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8" x-data="{ tab: 'reseller' }">
+        <div class="text-center mb-12">
+            <span
+                class="inline-block bg-[#E4E3FB] text-[#6366F1] font-semibold text-xs px-4 py-1 rounded-full mb-4">
+                SMM RESELLER PANEL
+            </span>
+            <h2 class="text-3xl md:text-4xl font-bold text-[#1A1A40] mb-4">Africa’s Best SMM Reseller Panel</h2>
+            <p class="text-gray-600 text-sm max-w-2xl mx-auto">
+                Build your own panel with our tools. Sell SMM services under your brand easily and start growing across Africa.
+            </p>
+        </div>
+        <div class="flex flex-wrap justify-center gap-3 mb-4 max-w-5xl mx-auto px-4">
+            <button @click="tab = 'reseller'" :class="{ 'bg-[#6366F1] text-white': tab === 'reseller', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'reseller' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                What is an SMM Panel Reseller?
+            </button>
+            <button @click="tab = 'provider'" :class="{ 'bg-[#6366F1] text-white': tab === 'provider', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'provider' }" class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                What is an SMM Panel Provider?
+            </button>
+            <button @click="tab = 'child1'"
+                :class="{ 'bg-[#6366F1] text-white': tab === 'child1', 'bg-[#F0F0F0] text-[#1A1A40]': tab !== 'child1' }"
+                class="px-5 py-3 text-sm font-medium rounded-xl transition">
+                What is a Child SMM Panel?
+            </button>
+        </div>
+        <div class="bg-[#F3F4F8] p-6 md:p-8 rounded-xl text-sm text-[#1A1A40] leading-6 w-full max-w-5xl mx-auto shadow-sm">
+            <div x-cloak x-show="tab === 'reseller'" x-transition>
+             <h4 class="font-semibold mb-2">Sell services with your brand name</h4>
+              <p class="mb-4">A <b>reseller panel</b> lets you offer SMM services using your own name and prices. You don't need to build a platform; you use ours and customize it your way.</p>
+              <h4 class="font-semibold mb-2">We handle the work for you</h4>
+              <p class="mb-4">Our team manages service delivery, updates, and support. You focus on bringing clients and helping them grow faster.</p>
+              <h4 class="font-semibold mb-2">Start your African business today</h4>
+              <p class="mb-4">No need for coding or extra skills. Create your own business fast with our ready system and start selling easily across African countries.</p>
+            </div>
+            <div x-cloak x-show="tab === 'provider'" x-transition>
+                <h4 class="font-semibold mb-2">We provide all the services</h4>
+              <p class="mb-4">As a <b>provider</b>, we deliver the tools and systems you need. Our platform is ready to supply all the services you want to sell.</p>
+              <h4 class="font-semibold mb-2">Everything works right away</h4>
+              <p class="mb-4">You connect to our panel, and you are ready to go. We take care of servers, updates, and support so you don’t need to.</p>
+              <h4 class="font-semibold mb-2">Trusted by many in Africa and beyond</h4>
+              <p class="mb-4">Thousands of users trust our services daily for fast results and smooth use. Start with us and grow with confidence.</p>
+            </div>
+            <div x-cloak x-show="tab === 'child1'" x-transition>
+                <h4 class="font-semibold mb-2">Your brand, our technology</h4>
+              <p class="mb-4">A <b>child panel</b> is your own platform using our system. You use your name, your domain, and your prices while we manage everything in the background.</p>
+              <h4 class="font-semibold mb-2">Full system managed for you</h4>
+              <p class="mb-4">You don’t have to worry about hosting, speed, or delivery. We make sure everything works smoothly for your brand.</p>
+              <h4 class="font-semibold mb-2">Manage easily and grow fast</h4>
+              <p class="mb-4">Get your own dashboard to track orders, manage customers, and grow your panel. Everything is simple and ready to use.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Steps Desktop Version Section -->
+<section class="hidden lg:block py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8 bg-[#f7f7fb] text-[#1A1A40]">
+    <div class="container mx-auto max-w-6xl px-4">
+        <div class="text-center mb-12">
+            <span class="inline-block bg-[#E3DFFE] text-xs font-semibold text-[#6E61E7] px-4 py-1 rounded-full mb-4">
+                HOW IT WORKS
+            </span>
+            <h2 class="text-3xl sm:text-4xl font-bold mb-2">How African SMM Panel Works</h2>
+            <p class="text-gray-500 text-base max-w-2xl mx-auto">
+                Start with our African SMM Panel in just a few minutes. No need for technical knowledge. Follow these steps and grow your online presence across Africa.
+            </p>
+        </div>
+        <div class="bg-white rounded-[20px] p-8 shadow-sm">
+            <div class="grid md:grid-cols-2 gap-12 items-start relative">
+                <div class="absolute top-0 left-1/2 transform -translate-x-1/2 h-full w-[2px] bg-[#6E61E7] z-0"></div>
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">1. Open Your Free Account</h3>
+                    <p class="text-gray-600 mb-4">
+                        Create your account quickly using your email. Access your dashboard to manage all your services in one place.
+                    </p>
+                    <a href="signup.html" class="bg-[#6E61E7] text-white font-semibold rounded-full px-6 py-2 mb-6">
+                        Sign Up Now →
+                    </a>
+                    <img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Sign up form" class="rounded-lg mt-[15px]">
+                </div>
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">2. Add Balance</h3>
+                    <p class="text-gray-600 mb-4">
+                        Add money easily with many payment options. Fast, safe, and ready to use right away.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Payments" class="rounded-lg">
+                </div>
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">3. Order Your Services</h3>
+                    <p class="text-gray-600 mb-4">
+                        Choose your service, fill in the simple form, and confirm. Everything is clear and takes just seconds.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="New Order Form" class="rounded-lg">
+                </div>
+                <div class="relative z-10">
+                    <h3 class="font-bold text-lg mb-2">4. See Your Progress</h3>
+                    <p class="text-gray-600 mb-4">
+                        Watch your results grow. Orders are processed fast, helping you improve your online success across Africa.
+                    </p>
+                    <img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="have fun" class="rounded-lg">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Steps Mobile Version Section -->
+<section class="block lg:hidden bg-[#f7f7fb] py-20 sm:py-20 px-4 sm:px-6 lg:px-8 my-8">
+    <div class="container mx-auto max-w-2xl px-4 relative">
+        <h2 class="text-center text-[#1A1A40] font-bold text-3xl mb-4">How to Use Our African SMM Panel</h2>
+        <p class="text-center text-gray-600 max-w-xl mx-auto mb-12">
+            Getting started with our African SMM Panel is very easy. No experience needed. Just follow these simple steps to boost your online reach across African countries.
+        </p>
+        <!-- Timeline line center mobile -->
+        <div class="absolute top-[30rem] bottom-14 left-1/2 transform -translate-x-1/2 w-[2px] bg-[#6E61E7] z-0"></div>
+        <div class="space-y-16 relative z-10">
+            <!-- Step 1 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">1. Open Your Account</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    Quickly register with your email. Right after, you’ll enter your dashboard where you can check services and place your orders easily.
+                </p>
+                <div class="text-center">
+                    <button class="bg-[#6E61E7] text-white px-6 py-2 rounded-full font-semibold">Sign Up Now →</button>
+                </div>
+                <img src="https://storage.perfectcdn.com/a9optm/ko7y933oaijbnd69.png" alt="Sign up form" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 2 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">2. Add Funds Easily</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    Choose a payment option that works best for you. Adding money is fast and secure so you can start placing orders right away.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/i45u2lpolphxcjfd.png" alt="Payments" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 3 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">3. Choose Your Service</h3>
+                <p class="text-gray-600 text-center mb-4">
+                    Pick the service that fits your needs, fill in the details, and place your order. Everything is made to be easy and clear for you.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/qasbqayahbfld29j.png" alt="New Order" class="rounded-lg mt-6 mx-auto">
+            </div>
+            <!-- Step 4 -->
+            <div class="relative bg-white p-6 rounded-[20px] shadow-sm">
+                <div class="w-4 h-4 bg-[#6E61E7] rounded-full absolute left-1/2 transform -translate-x-1/2 -top-3"></div>
+                <h3 class="font-bold text-lg text-center mb-2">4. See Your Progress</h3>
+                <p class="text-gray-600 text-center mb-4">
+                   Once you order, just relax and watch your online presence grow. We deliver quickly so you notice the difference in no time.
+                </p>
+                <img src="https://storage.perfectcdn.com/a9optm/ul8hidxqsir178of.png" alt="Have FUN!" class="rounded-lg mt-6 mx-auto">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SMM Panel Service FAQ Section-->
+<section class="py-20 bg-white text-[#1A1A40]" x-data="{ activeTab: 0 }">
+    <div class="container mx-auto max-w-7xl px-4">
+        <div class="text-center lg:text-left mb-12 lg:mb-16">
+            <span class="inline-block bg-[#E3DFFE] text-xs font-semibold text-[#6E61E7] px-4 py-1 rounded-full mb-4">
+                SERVICES
+            </span>
+            <h2 class="text-3xl sm:text-4xl font-bold mb-2">Best and Affordable African SMM Panel Services</h2>
+            <p class="text-gray-500 text-base max-w-2xl mx-auto lg:mx-0">
+                Our African SMM Panel brings all top solutions into one simple platform. You can find all services at very low prices. Whether you want to grow your project or offer services to others, everything you need is here — simple, fast, and ready to use.
+            </p>
+        </div>
+        <div class="grid lg:grid-cols-2 gap-8">
+            <!-- Tabs -->
+            <div class="space-y-4">
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 0 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 0">Affordable Growth for African Users</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 1 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 1">Trusted Across Africa</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 2 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 2">Reach More People with Ease</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 3 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 3">Simple and Clean Dashboard</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 4 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 4">Fast Delivery Every Time</button>
+                <button class="w-full text-left px-6 py-3 rounded-lg font-semibold" :class="activeTab === 5 ? 'bg-[#6E61E7] text-white' : 'bg-[#f1f1f9]'" @click="activeTab = 5">Reliable Services You Can Trust</button>
+            </div>
+            <!-- Content -->
+            <div
+                class="bg-[#f7f7fb] p-6 lg:p-8 rounded-[20px] shadow-sm max-h-[500px] overflow-y-auto scrollbar-thin scrollbar-thumb-[#6E61E7] scrollbar-track-[#f1f1f9]">
+                <div x-cloak x-show="activeTab === 0">
+                  <h4 class="font-bold mb-4">Best Prices, Real Growth</h4>
+                  <p class="mb-4">Our African SMM Panel offers services starting from just a few cents. Great for small budgets but still high quality for real online progress.</p>
+                  <h4 class="font-bold mb-4">For Everyone in Africa</h4>
+                  <p class="mb-4">Whether you are new, a business, or a reseller, our platform helps you grow fast and affordably across Africa.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 1">
+                    <h4 class="font-bold mb-4">Used Across Many Countries</h4>
+                    <p class="mb-4">Thousands from Africa and beyond use our panel daily. Trusted by people in Morocco, Nigeria, Kenya, South Africa, and more.</p>
+                    <h4 class="font-bold mb-4">Safe and Reliable</h4>
+                    <p class="mb-4">We update our services often to keep them safe and working well. Our users trust us because we focus on real results.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 2">
+                    <h4 class="font-bold mb-4">Grow Your Online Reach</h4>
+                    <p class="mb-4">Our panel helps you connect with more people easily. Perfect for businesses, creators, and brands in Africa.</p>
+                    <h4 class="font-bold mb-4">Easy and Clear Steps</h4>
+                    <p class="mb-4">Select your service, add your link, and confirm. We take care of the rest. Growth made simple and quick.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 3">
+                    <h4 class="font-bold mb-4">Made for Beginners</h4>
+                    <p class="mb-4">Our platform is clean and easy to use. You can place your orders in just a few clicks without needing technical skills.</p>
+                    <h4 class="font-bold mb-4">Works Anywhere</h4>
+                    <p class="mb-4">Use the panel from your phone or computer. Manage your services anytime and anywhere in Africa.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 4">
+                    <h4 class="font-bold mb-4">Fast Delivery</h4>
+                    <p class="mb-4">Most services are processed in minutes. You will not have to wait long to see progress. Fast and efficient delivery for all African users.</p>
+                    <h4 class="font-bold mb-4">Always Available</h4>
+                    <p class="mb-4">Our system runs 24/7. You can place your orders any time, day or night, without delay.</p>
+                </div>
+                <div x-cloak x-show="activeTab === 5">
+                    <h4 class="font-bold mb-4">Strong and Real Services</h4>
+                    <p class="mb-4">All services are tested and improved regularly to keep quality high. Trust us to support your online success across Africa.</p>
+                    <h4 class="font-bold mb-4">Perfect for Resellers and Businesses</h4>
+                    <p class="mb-4">Whether for yourself or your clients, our African SMM Panel gives you the right tools to grow easily and reliably.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Newsletter Section -->
+<section class="mx-5 md:mx-10 py-20 bg-gradient-to-r from-[#4D61E7] to-[#6E61E7] text-white newsletter relative overflow-hidden mb-8">
+    <!-- Left Bottom Decoration -->
+    <img src="https://storage.perfectcdn.com/a9optm/ss0tioi4rksfh77t.png" alt=""
+        class="absolute bottom-[0px] left-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+    <!-- Right Top Decoration -->
+    <img src="https://storage.perfectcdn.com/a9optm/jzaek7axl0p31p1p.png" alt=""
+        class="absolute top-[0px] right-[0px] w-[180px] pointer-events-none select-none" loading="lazy">
+    <div class="container mx-auto px-4 max-w-7xl">
+        <div class="grid md:grid-cols-2 items-center gap-10">
+            <!-- Left -->
+            <div>
+                <button class="bg-white text-[#6E61E7] text-xs font-bold px-4 py-2 rounded-full mb-4 shadow-md">
+                    SUBSCRIBE
+                </button>
+                <h2 class="text-3xl font-bold leading-snug mb-4">Get the latest SMM<br>Panel Server updates</h2>
+                <p class="text-sm text-white/80 max-w-md">
+                    Get updates on the latest social media marketing, popular services and all the tips & tricks to
+                    keep your business powerful.
+                </p>
+            </div>
+            <!-- Right -->
+            <div>
+                <form class="bg-white p-[5px] rounded-full flex items-center justify-between w-full max-w-xl">
+                    <input type="email" placeholder="Enter your email address"
+                        class="bg-white text-[#1A1A40] placeholder:text-gray-400 px-5 py-3 rounded-full w-full focus:outline-none">
+                    <button type="submit"
+                        class="bg-[#6E61E7] hover:bg-[#5c50c4] text-white text-sm font-semibold px-6 py-3 rounded-full ml-2">
+                        Subscribe
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+			<!-- footer -->
+            <footer class="bg-[#1A1A40] text-white py-16 text-sm">
+                <div class="container mx-auto max-w-7xl px-4 grid md:grid-cols-1">
+                    <!-- Column 1: Logo & Description -->
+                    <div>
+                        <img src="https://storage.perfectcdn.com/a9optm/17tlr8tbgy4qaqi4.png" alt="InstaHeist ZA" class="h-10 mb-4" width="215" height="58" loading="lazy">
+                        <p class="text-white/80 leading-6">
+                            InstaHeist ZA is your trusted provider for social media marketing tools.
+                            Affordable, fast, and powerful. Grow your business with ease.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Bottom bar -->
+                <div class="text-center mt-12 border-t border-white/10 pt-6 text-white/50 text-xs">
+                    © 2025 InstaHeist ZA. All rights reserved.
+                </div>
+            </footer>
+		
+		<!-- Notifications wrapper -->
+		<div id="notify-wrapper" class="alert alert-success hidden" style="display: none;"></div>
+		<div id="copy-toast" class="fixed top-10 right-5 bg-gray-800 text-white text-sm px-4 py-2 rounded-lg shadow-lg opacity-0 transition-opacity duration-300 z-50 pointer-events-none">
+			Copied to clipboard!
+		</div>
+
+    	
+		<!-- Bonus Modal -->
+                <div x-data="bonusModal" x-init="init()" x-cloak x-show="showBonus" class="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-60">
+                        <div @click.away="hide()" class="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 relative overflow-hidden">
+
+				<!-- Close button -->
+                                <button @click="hide()" class="absolute top-4 right-4 text-gray-400 hover:text-red-500 text-xl font-bold">&times;</button>
+
+				<!-- Header -->
+				<div class="text-center">
+					<h3 class="text-lg font-semibold text-indigo-500 tracking-wide uppercase">Exclusive Bonus</h3>
+					<h2 class="text-3xl font-extrabold text-gray-800 mt-2">Claim <span class="text-yellow-500" x-text="bonus_percent + '% Bonus'"></span> Now!</h2>
+				</div>
+
+				<div class="relative my-6">
+					<div class="flex overflow-hidden relative">
+
+						<!-- Left Side -->
+						<div class="relative bg-gradient-to-r from-red-500 to-yellow-400 text-white w-80 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-sm uppercase tracking-widest font-semibold">Up To</span>
+							<span class="text-5xl font-extrabold leading-none" x-text="bonus_percent">20</span>
+
+							<!-- Top Left -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Left -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Right Top -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Right Bottom -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+						</div>
+
+						<!-- Right Side -->
+						<div class="relative bg-gradient-to-r from-sky-400 to-indigo-500 text-black w-1/3 py-8 px-4 flex flex-col items-center justify-center">
+							<span class="text-5xl font-extrabold leading-none">%</span>
+							<span class="text-sm uppercase tracking-widest font-semibold">Off</span>
+
+							<!-- Top Right -->
+							<div class="absolute top-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Bottom Right -->
+							<div class="absolute bottom-0 right-0 w-6 h-6 bg-white rounded-full translate-x-1/2 translate-y-1/2"></div>
+
+							<!-- Middle Left Top -->
+							<div class="absolute top-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+							<!-- Middle Left Bottom -->
+							<div class="absolute bottom-0 left-0 w-6 h-6 bg-white rounded-full -translate-x-1/2 translate-y-1/2"></div>
+						</div>
+					</div>
+				</div>
+
+
+
+				<!-- Footer -->
+				<div class="text-center mt-4">
+				<p class="text-sm text-gray-500">Valid until <strong x-text="valid_until_date + ' - ' + valid_until_time"></strong> <strong>GMT</strong></p>
+				</div>
+
+				<!-- CTA Button -->
+				<div class="mt-6 text-center">
+                                        <button @click="hide()" class="w-full px-5 py-2 rounded-xl bg-gradient-to-r from-sky-400 to-indigo-500 text-white font-semibold shadow hover:scale-105 transition transform duration-300">
+                                                Got It!
+                                        </button>
+				</div>
+
+			</div>
+		</div>
+      
+          
+                <!-- Back to Top Button -->
+                <button id="backToTop" aria-label="Back to top" class="hidden fixed bottom-6 right-6 z-40 p-3 rounded-full bg-[#4f46e5] text-white shadow-lg">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
+                        </svg>
+                </button>
+      
+		
+
+
+
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/libs/jquery/1.12.4/jquery.min.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/xx1pjazll6rkdn33.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/02ou42xtpx6boaea.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/7gunsx8o4lyb4y43.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/global/rnkzhgwcy0rf9dks.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/p8q3pyeo3xt5wxu7.js"  >
+							</script>
+					<script type="text/javascript"  src="https://storage.perfectcdn.com/a9optm/lyswysyd3tpc7x3p.js"  >
+							</script>
+					<script type="text/javascript"  >
+				                    window.modules.layouts = {"theme_id":1,"auth":0,"live":true,"csrftoken":"-YGE3jcaU1B-Yea-G_6V3OLKH6VkQ6WVMI8Su0_QvqCTzty5AX05CQg7sMlJzdSflYV84wAylqdizSrIEKWTww=="};
+                			</script>
+					<script type="text/javascript"  >
+							</script>
+		    <script>
+        window.userData = {
+            username: '',
+            balance: parseFloat(''),
+            id: '',
+            hasError: false
+        };
+    </script>
+
+	</body>
+</html>
